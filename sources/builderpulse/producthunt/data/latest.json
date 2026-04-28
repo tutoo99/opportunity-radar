@@ -1,0 +1,483 @@
+{
+  "source": "producthunt",
+  "collected_at": "2026-04-16T23:21:20.278313+08:00",
+  "items": [
+    {
+      "id": "claude-code-desktop-app-redesigned",
+      "title": "Claude Code Desktop App Redesigned - Run parallel coding agents from one desktop workspace",
+      "url": "https://www.producthunt.com/products/claude-redesigned",
+      "score": 273,
+      "comments_count": 6,
+      "author": "unknown",
+      "type": "product",
+      "raw_text": "Run parallel coding agents from one desktop workspace | Productivity | Software Engineering | Artificial Intelligence",
+      "images": [],
+      "collected_tags": [
+        "Productivity",
+        "Software Engineering",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "id": "resend-cli-2-0",
+      "title": "Resend CLI 2.0 - Built for humans, AI agents, and CI/CD pipelines",
+      "url": "https://www.producthunt.com/products/resend",
+      "score": 204,
+      "comments_count": 14,
+      "author": "unknown",
+      "type": "product",
+      "raw_text": "Built for humans, AI agents, and CI/CD pipelines | Email | Developer Tools | GitHub",
+      "images": [],
+      "collected_tags": [
+        "Email",
+        "Developer Tools",
+        "GitHub"
+      ]
+    },
+    {
+      "id": "x-pilot",
+      "title": "X-Pilot -  Explain anything accurately, from document to video course",
+      "url": "https://www.producthunt.com/products/x-pilot-5",
+      "score": 197,
+      "comments_count": 31,
+      "author": "unknown",
+      "type": "product",
+      "raw_text": " Explain anything accurately, from document to video course | Education | Artificial Intelligence | Video",
+      "images": [],
+      "collected_tags": [
+        "Education",
+        "Artificial Intelligence",
+        "Video"
+      ]
+    },
+    {
+      "id": "google-chrome-skills",
+      "title": "Google Chrome Skills - Turn your best AI prompts into one-click tools in Chrome",
+      "url": "https://www.producthunt.com/products/google-chrome-skills",
+      "score": 151,
+      "comments_count": 2,
+      "author": "unknown",
+      "type": "product",
+      "raw_text": "Turn your best AI prompts into one-click tools in Chrome | Task Management | Artificial Intelligence | Search",
+      "images": [],
+      "collected_tags": [
+        "Task Management",
+        "Artificial Intelligence",
+        "Search"
+      ]
+    },
+    {
+      "id": "stagewise",
+      "title": "stagewise - The coding agent that works in its own browser environment",
+      "url": "https://www.producthunt.com/products/stagewise-2",
+      "score": 143,
+      "comments_count": 11,
+      "author": "unknown",
+      "type": "product",
+      "raw_text": "The coding agent that works in its own browser environment | Open Source | Developer Tools | GitHub",
+      "images": [],
+      "collected_tags": [
+        "Open Source",
+        "Developer Tools",
+        "GitHub"
+      ]
+    },
+    {
+      "id": "google-gemini-3-1-flash-tts",
+      "title": "Google Gemini 3.1 Flash TTS - Text-to-speech API with natural language voice direction",
+      "url": "https://www.producthunt.com/products/google-gemini-3-1-flash-tts",
+      "score": 118,
+      "comments_count": 2,
+      "author": "unknown",
+      "type": "product",
+      "raw_text": "Text-to-speech API with natural language voice direction | API | Artificial Intelligence | Audio",
+      "images": [],
+      "collected_tags": [
+        "API",
+        "Artificial Intelligence",
+        "Audio"
+      ]
+    },
+    {
+      "id": "clayhog",
+      "title": "ClayHog - See what AI says about your brand and competitors",
+      "url": "https://www.producthunt.com/products/clayhog",
+      "score": 109,
+      "comments_count": 13,
+      "author": "unknown",
+      "type": "product",
+      "raw_text": "See what AI says about your brand and competitors | Analytics | Marketing | Search",
+      "images": [],
+      "collected_tags": [
+        "Analytics",
+        "Marketing",
+        "Search"
+      ]
+    },
+    {
+      "id": "subagents-in-gemini-cli",
+      "title": "Subagents in Gemini CLI - Gemini CLI now runs specialist subagents in your terminal",
+      "url": "https://www.producthunt.com/products/google",
+      "score": 106,
+      "comments_count": 2,
+      "author": "unknown",
+      "type": "product",
+      "raw_text": "Gemini CLI now runs specialist subagents in your terminal | Productivity | Task Management | GitHub",
+      "images": [],
+      "collected_tags": [
+        "Productivity",
+        "Task Management",
+        "GitHub"
+      ]
+    },
+    {
+      "id": "fellow-for-ios",
+      "title": "Fellow for iOS - AI meeting notes for in-person meetings",
+      "url": "https://www.producthunt.com/products/fellow-app",
+      "score": 103,
+      "comments_count": 10,
+      "author": "unknown",
+      "type": "product",
+      "raw_text": "AI meeting notes for in-person meetings | iOS | Notes | Meetings",
+      "images": [],
+      "collected_tags": [
+        "iOS",
+        "Notes",
+        "Meetings"
+      ]
+    },
+    {
+      "id": "foyer",
+      "title": "Foyer - Make your site speak and sell",
+      "url": "https://www.producthunt.com/products/foyer-3",
+      "score": 99,
+      "comments_count": 10,
+      "author": "unknown",
+      "type": "product",
+      "raw_text": "Make your site speak and sell | Sales | Marketing | Artificial Intelligence",
+      "images": [],
+      "collected_tags": [
+        "Sales",
+        "Marketing",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "id": "openai-agents-sdk",
+      "title": "OpenAI Agents SDK - Build production agents with harness and sandbox",
+      "url": "https://www.producthunt.com/products/openai",
+      "score": 99,
+      "comments_count": 4,
+      "author": "unknown",
+      "type": "product",
+      "raw_text": "Build production agents with harness and sandbox | Artificial Intelligence | Development",
+      "images": [],
+      "collected_tags": [
+        "Artificial Intelligence",
+        "Development"
+      ]
+    },
+    {
+      "id": "hackerearth-onscreen",
+      "title": "HackerEarth OnScreen - An always-on, zero-bias AI hiring tool",
+      "url": "https://www.producthunt.com/products/hackerearth",
+      "score": 96,
+      "comments_count": 13,
+      "author": "unknown",
+      "type": "product",
+      "raw_text": "An always-on, zero-bias AI hiring tool | Hiring | SaaS | Artificial Intelligence",
+      "images": [],
+      "collected_tags": [
+        "Hiring",
+        "SaaS",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "id": "funkey",
+      "title": "FunKey - Mechanical keyboard & mouse sounds for your Mac",
+      "url": "https://www.producthunt.com/products/funkey",
+      "score": 95,
+      "comments_count": 0,
+      "author": "unknown",
+      "type": "product",
+      "raw_text": "Mechanical keyboard & mouse sounds for your Mac | Productivity | Menu Bar Apps | Tech",
+      "images": [],
+      "collected_tags": [
+        "Productivity",
+        "Menu Bar Apps",
+        "Tech"
+      ]
+    },
+    {
+      "id": "avec",
+      "title": "Avec - Tinder for Email to handle your inbox in seconds",
+      "url": "https://www.producthunt.com/products/avec",
+      "score": 95,
+      "comments_count": 14,
+      "author": "unknown",
+      "type": "product",
+      "raw_text": "Tinder for Email to handle your inbox in seconds | Email | Artificial Intelligence | Audio",
+      "images": [],
+      "collected_tags": [
+        "Email",
+        "Artificial Intelligence",
+        "Audio"
+      ]
+    },
+    {
+      "id": "libertify-com",
+      "title": "Libertify.com - Turn any document into an interactive video",
+      "url": "https://www.producthunt.com/products/libertify-com",
+      "score": 93,
+      "comments_count": 3,
+      "author": "unknown",
+      "type": "product",
+      "raw_text": "Turn any document into an interactive video | Artificial Intelligence | Video | Pitch Paris",
+      "images": [],
+      "collected_tags": [
+        "Artificial Intelligence",
+        "Video",
+        "Pitch Paris"
+      ]
+    },
+    {
+      "id": "chinilla",
+      "title": "Chinilla - Design systems, simulate them and watch where they break",
+      "url": "https://www.producthunt.com/products/chinilla",
+      "score": 90,
+      "comments_count": 5,
+      "author": "unknown",
+      "type": "product",
+      "raw_text": "Design systems, simulate them and watch where they break | Education | Developer Tools | Artificial Intelligence",
+      "images": [],
+      "collected_tags": [
+        "Education",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "id": "mantle-safes",
+      "title": "Mantle SAFEs - Issue & sign SAFEs for free. No DocuSign required.",
+      "url": "https://www.producthunt.com/products/withmantle",
+      "score": 89,
+      "comments_count": 1,
+      "author": "unknown",
+      "type": "product",
+      "raw_text": "Issue & sign SAFEs for free. No DocuSign required. | Fintech | Venture Capital | SaaS",
+      "images": [],
+      "collected_tags": [
+        "Fintech",
+        "Venture Capital",
+        "SaaS"
+      ]
+    },
+    {
+      "id": "windsurf-2-0",
+      "title": "Windsurf 2.0 - Introducing the Agent Command Center and Devin in Windsurf",
+      "url": "https://www.producthunt.com/products/windsurf",
+      "score": 87,
+      "comments_count": 3,
+      "author": "unknown",
+      "type": "product",
+      "raw_text": "Introducing the Agent Command Center and Devin in Windsurf | Task Management | Software Engineering | Artificial Intelligence",
+      "images": [],
+      "collected_tags": [
+        "Task Management",
+        "Software Engineering",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "id": "agent-card",
+      "title": "Agent Card - Prepaid virtual Visa cards for AI agents",
+      "url": "https://www.producthunt.com/products/agent-card",
+      "score": 81,
+      "comments_count": 3,
+      "author": "unknown",
+      "type": "product",
+      "raw_text": "Prepaid virtual Visa cards for AI agents | Fintech | Developer Tools | Artificial Intelligence",
+      "images": [],
+      "collected_tags": [
+        "Fintech",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "id": "spark-2-0",
+      "title": "Spark 2.0 - A streaming engine for huge 3D Gaussian worlds",
+      "url": "https://www.producthunt.com/products/marble-by-world-labs",
+      "score": 79,
+      "comments_count": 3,
+      "author": "unknown",
+      "type": "product",
+      "raw_text": "A streaming engine for huge 3D Gaussian worlds | Virtual Reality | Open Source | 3D Modeling",
+      "images": [],
+      "collected_tags": [
+        "Virtual Reality",
+        "Open Source",
+        "3D Modeling"
+      ]
+    },
+    {
+      "id": "flixier-edit-by-transcript",
+      "title": "Flixier Edit by Transcript  - Delete words and the video edits itself ",
+      "url": "https://www.producthunt.com/products/flixier",
+      "score": 77,
+      "comments_count": 3,
+      "author": "unknown",
+      "type": "product",
+      "raw_text": "Delete words and the video edits itself  | Artificial Intelligence | Video",
+      "images": [],
+      "collected_tags": [
+        "Artificial Intelligence",
+        "Video"
+      ]
+    },
+    {
+      "id": "astropad-workbench",
+      "title": "Astropad Workbench - Remote desktop for AI agents running on headless Macs",
+      "url": "https://www.producthunt.com/products/workbench-4",
+      "score": 77,
+      "comments_count": 5,
+      "author": "unknown",
+      "type": "product",
+      "raw_text": "Remote desktop for AI agents running on headless Macs | Productivity | Developer Tools | Artificial Intelligence",
+      "images": [],
+      "collected_tags": [
+        "Productivity",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "id": "kampala-by-zatanna",
+      "title": "Kampala by Zatanna - Reverse engineer websites, mobile, or desktop apps instantly",
+      "url": "https://www.producthunt.com/products/kampala-by-zatanna",
+      "score": 74,
+      "comments_count": 1,
+      "author": "unknown",
+      "type": "product",
+      "raw_text": "Reverse engineer websites, mobile, or desktop apps instantly | API | SaaS | Developer Tools",
+      "images": [],
+      "collected_tags": [
+        "API",
+        "SaaS",
+        "Developer Tools"
+      ]
+    },
+    {
+      "id": "pilot5-ai",
+      "title": "Pilot5.ai - Your question, deliberated by 5 frontier AI models",
+      "url": "https://www.producthunt.com/products/pilot5-ai",
+      "score": 74,
+      "comments_count": 6,
+      "author": "unknown",
+      "type": "product",
+      "raw_text": "Your question, deliberated by 5 frontier AI models | Productivity | Artificial Intelligence",
+      "images": [],
+      "collected_tags": [
+        "Productivity",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "id": "innogath",
+      "title": "Innogath - Turn deep research into a navigable book + graph",
+      "url": "https://www.producthunt.com/products/innogath",
+      "score": 73,
+      "comments_count": 9,
+      "author": "unknown",
+      "type": "product",
+      "raw_text": "Turn deep research into a navigable book + graph | Productivity | Writing | Artificial Intelligence",
+      "images": [],
+      "collected_tags": [
+        "Productivity",
+        "Writing",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "id": "splitt",
+      "title": "Splitt - Track your workout from your lock screen and Dynamic Island",
+      "url": "https://www.producthunt.com/products/splitt-3",
+      "score": 71,
+      "comments_count": 7,
+      "author": "unknown",
+      "type": "product",
+      "raw_text": "Track your workout from your lock screen and Dynamic Island | iOS | Health & Fitness | Time Tracking",
+      "images": [],
+      "collected_tags": [
+        "iOS",
+        "Health & Fitness",
+        "Time Tracking"
+      ]
+    },
+    {
+      "id": "taskshell",
+      "title": "TaskShell - A terminal/IDE-inspired task manager that keeps you in flow",
+      "url": "https://www.producthunt.com/products/taskshell",
+      "score": 71,
+      "comments_count": 1,
+      "author": "unknown",
+      "type": "product",
+      "raw_text": "A terminal/IDE-inspired task manager that keeps you in flow | Productivity | Task Management | Developer Tools",
+      "images": [],
+      "collected_tags": [
+        "Productivity",
+        "Task Management",
+        "Developer Tools"
+      ]
+    },
+    {
+      "id": "codeplanet",
+      "title": "CodePlanet - Master coding while building a portfolio",
+      "url": "https://www.producthunt.com/products/codeplanet",
+      "score": 69,
+      "comments_count": 5,
+      "author": "unknown",
+      "type": "product",
+      "raw_text": "Master coding while building a portfolio | Education | Developer Tools | Tech",
+      "images": [],
+      "collected_tags": [
+        "Education",
+        "Developer Tools",
+        "Tech"
+      ]
+    },
+    {
+      "id": "lisa-core",
+      "title": "LISA Core - LLM memory using semantic compression for AI conversations",
+      "url": "https://www.producthunt.com/products/lisa-core-your-ai-memory-library",
+      "score": 68,
+      "comments_count": 5,
+      "author": "unknown",
+      "type": "product",
+      "raw_text": "LLM memory using semantic compression for AI conversations | Chrome Extensions | Productivity | SaaS",
+      "images": [],
+      "collected_tags": [
+        "Chrome Extensions",
+        "Productivity",
+        "SaaS"
+      ]
+    },
+    {
+      "id": "clawtab",
+      "title": "ClawTab - Desktop app to manage 20+ AI coding agents at once",
+      "url": "https://www.producthunt.com/products/clawtab",
+      "score": 67,
+      "comments_count": 1,
+      "author": "unknown",
+      "type": "product",
+      "raw_text": "Desktop app to manage 20+ AI coding agents at once | Productivity | Developer Tools | Artificial Intelligence",
+      "images": [],
+      "collected_tags": [
+        "Productivity",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1007 @@
+{
+  "lastUpdate": "2026-04-16 16:16:09",
+  "country": {
+    "AE": "阿联酋",
+    "AL": "阿尔巴尼亚",
+    "AM": "亚美尼亚",
+    "AO": "安哥拉",
+    "AR": "阿根廷",
+    "AT": "奥地利",
+    "AU": "澳大利亚",
+    "AZ": "阿塞拜疆",
+    "BA": "波黑",
+    "BD": "孟加拉国",
+    "BE": "比利时",
+    "BF": "布基纳法索",
+    "BG": "保加利亚",
+    "BH": "巴林",
+    "BJ": "贝宁",
+    "BO": "玻利维亚",
+    "BR": "巴西",
+    "BY": "白俄罗斯",
+    "CA": "加拿大",
+    "CD": "刚果（金）",
+    "CH": "瑞士",
+    "CI": "科特迪瓦",
+    "CL": "智利",
+    "CM": "喀麦隆",
+    "CO": "哥伦比亚",
+    "CR": "哥斯达黎加",
+    "CU": "古巴",
+    "CY": "塞浦路斯",
+    "CZ": "捷克",
+    "DE": "德国",
+    "DK": "丹麦",
+    "DO": "多米尼加共和国",
+    "DZ": "阿尔及利亚",
+    "EC": "厄瓜多尔",
+    "EE": "爱沙尼亚",
+    "EG": "埃及",
+    "ES": "西班牙",
+    "ET": "埃塞俄比亚",
+    "FI": "芬兰",
+    "FR": "法国",
+    "GB": "英国",
+    "GE": "格鲁吉亚",
+    "GH": "加纳",
+    "GR": "希腊",
+    "GT": "危地马拉",
+    "HK": "中国香港",
+    "HN": "洪都拉斯",
+    "HR": "克罗地亚",
+    "HT": "海地",
+    "HU": "匈牙利",
+    "ID": "印度尼西亚",
+    "IE": "爱尔兰",
+    "IL": "以色列",
+    "IN": "印度",
+    "IQ": "伊拉克",
+    "IR": "伊朗",
+    "IT": "意大利",
+    "JM": "牙买加",
+    "JO": "约旦",
+    "JP": "日本",
+    "KE": "肯尼亚",
+    "KG": "吉尔吉斯斯坦",
+    "KH": "柬埔寨",
+    "KR": "韩国",
+    "KW": "科威特",
+    "KZ": "哈萨克斯坦",
+    "LB": "黎巴嫩",
+    "LK": "斯里兰卡",
+    "LT": "立陶宛",
+    "LV": "拉脱维亚",
+    "LY": "利比亚",
+    "MA": "摩洛哥",
+    "MD": "摩尔多瓦",
+    "MK": "北马其顿",
+    "ML": "马里",
+    "MM": "缅甸",
+    "MX": "墨西哥",
+    "MY": "马来西亚",
+    "MZ": "莫桑比克",
+    "NG": "尼日利亚",
+    "NI": "尼加拉瓜",
+    "NL": "荷兰",
+    "NO": "挪威",
+    "NP": "尼泊尔",
+    "NZ": "新西兰",
+    "OM": "阿曼",
+    "PA": "巴拿马",
+    "PE": "秘鲁",
+    "PH": "菲律宾",
+    "PK": "巴基斯坦",
+    "PL": "波兰",
+    "PR": "波多黎各",
+    "PS": "巴勒斯坦",
+    "PT": "葡萄牙",
+    "PY": "巴拉圭",
+    "QA": "卡塔尔",
+    "RO": "罗马尼亚",
+    "RS": "塞尔维亚",
+    "RU": "俄罗斯",
+    "SA": "沙特阿拉伯",
+    "SE": "瑞典",
+    "SG": "新加坡",
+    "SI": "斯洛文尼亚",
+    "SK": "斯洛伐克",
+    "SN": "塞内加尔",
+    "SV": "萨尔瓦多",
+    "SY": "叙利亚",
+    "TH": "泰国",
+    "TM": "土库曼斯坦",
+    "TN": "突尼斯",
+    "TR": "土耳其",
+    "TT": "特立尼达和多巴哥",
+    "TW": "中国台湾",
+    "TZ": "坦桑尼亚",
+    "UA": "乌克兰",
+    "UG": "乌干达",
+    "US": "美国",
+    "UY": "乌拉圭",
+    "UZ": "乌兹别克斯坦",
+    "VE": "委内瑞拉",
+    "VN": "越南",
+    "YE": "也门",
+    "ZA": "南非",
+    "ZM": "赞比亚",
+    "ZW": "津巴布韦"
+  },
+  "data": [
+    {
+      "title": "selfie sandra",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 16 Apr 2026 09:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsuIwcaILmutCGpR_fiWH1w2mVWeTUoEdLKjgq1tmUc4L8ykrdone4Bwvv9_s",
+      "pictureSource": "Filmstarts",
+      "relatedSearch": [
+        {
+          "title": "Heute bei \"Wer weiß denn sowas?\": Dieses Influencer-Duo hat einen sehr erfolgreichen Podcast",
+          "snippet": "",
+          "url": "https://www.filmstarts.de/tvstarts/nachrichten/1000199520.html",
+          "source": "Filmstarts"
+        },
+        {
+          "title": "Influencer-Duell \"Selfie Sandra\" vs. \"laserluca\" heute (16.04.2026) bei \"Wer weiß denn sowas?\"",
+          "snippet": "",
+          "url": "https://www.happy-spots.de/influencer-duell-selfie-sandra-vs-laserluca-heute-16-04-2026-bei-wer-weiss-denn-sowas.html",
+          "source": "Happy-Spots"
+        },
+        {
+          "title": "„Wer weiß denn sowas?“ heute: Das musst du über Laserluca und SelfieSandra wissen!",
+          "snippet": "",
+          "url": "https://www.tvmovie.de/news/wer-weiss-denn-sowas-heute-das-musst-du-ueber-laserluca-und-selfiesandra-wissen-157691",
+          "source": "TV Movie"
+        }
+      ],
+      "link": "https://imtaqin.id/",
+      "geo": "DE",
+      "geo_name": "德国"
+    },
+    {
+      "title": "mahle",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 16 Apr 2026 09:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2esy1FQp-S_aEfa-46j77O6144JVrcP_Il-ncg9LzkSispprxXU8GowjVHRo",
+      "pictureSource": "Handelsblatt",
+      "relatedSearch": [
+        {
+          "title": "Autozulieferer: Mahle droht wegen des Verbrennerverbots mit Werksschließungen",
+          "snippet": "",
+          "url": "https://www.handelsblatt.com/unternehmen/industrie/autozulieferer-mahle-droht-wegen-des-verbrennerverbots-mit-werksschliessungen/100215022.html",
+          "source": "Handelsblatt"
+        },
+        {
+          "title": "Verbrenner-Aus: Zulieferer droht mit Werkschließungen",
+          "snippet": "",
+          "url": "https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_101215604/wegen-verbrenner-aus-autozulieferer-mahle-droht-mit-werkschliessungen.html",
+          "source": "T-Online"
+        },
+        {
+          "title": "Mahle in Stuttgart: Mit diesem Bonus können die Mitarbeiter rechnen",
+          "snippet": "",
+          "url": "https://www.stuttgarter-zeitung.de/inhalt.mahle-in-stuttgart-mit-diesem-bonus-koennen-die-mitarbeiter-rechnen.45d10eb4-c511-4872-8f6c-ee28b3f4e48e.html",
+          "source": "stuttgarter-zeitung.de"
+        }
+      ],
+      "link": "https://imtaqin.id/",
+      "geo": "DE",
+      "geo_name": "德国"
+    },
+    {
+      "title": "nagelsmann undav",
+      "trafficCount": "10000+",
+      "pubDate": "Thu, 16 Apr 2026 09:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRnEYRBNqnaFt3VvKQ4r1hjRDeXcZd3LJBoiBpFD_hs2Ip2VAHXFptH1CzQUg",
+      "pictureSource": "Spiegel",
+      "relatedSearch": [
+        {
+          "title": "Nagelsmann entschuldigt sich bei Stürmer Undav",
+          "snippet": "",
+          "url": "https://www.spiegel.de/sport/fussball/dfb-julian-nagelsmann-bittet-stuermer-deniz-undav-um-entschuldigung-a-bbacbaac-3c87-4786-9554-82be99ff5f82",
+          "source": "Spiegel"
+        },
+        {
+          "title": "„War blöd von mir“: Nagelsmann entschuldigt sich bei Undav",
+          "snippet": "",
+          "url": "https://www.bild.de/sport/fussball/war-bloed-von-mir-nagelsmann-entschuldigt-sich-bei-undav-69e100537711c440ff1d97f8",
+          "source": "BILD"
+        },
+        {
+          "title": "Nach DFB-Länderspiel – Nagelsmann entschuldigt sich bei Undav: \"War blöd von mir\"",
+          "snippet": "",
+          "url": "https://www.t-online.de/sport/fussball/nationalmannschaft-deutschland/id_101215492/dfb-julian-nagelsmann-bittet-deniz-undav-um-verzeihung-bloed-von-mir-.html",
+          "source": "T-Online"
+        }
+      ],
+      "link": "https://imtaqin.id/",
+      "geo": "DE",
+      "geo_name": "德国"
+    },
+    {
+      "title": "celta – freiburg",
+      "trafficCount": "10000+",
+      "pubDate": "Thu, 16 Apr 2026 08:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiHrp6ORGB4o-uMaSeUThZ_ucfALh4kn8-LZVGpWLHOs-1_4K2wJDGeAPyRJA",
+      "pictureSource": "BILD",
+      "relatedSearch": [
+        {
+          "title": "Fußball: Heute zwei deutsche Europa-Kracher im Free-TV",
+          "snippet": "",
+          "url": "https://www.bild.de/sport/fussball/fussball-heute-zwei-deutsche-europa-kracher-im-free-tv-69e0f3c262672238fee07d60",
+          "source": "BILD"
+        },
+        {
+          "title": "Trotz guter Ausgangslage: SC Freiburg mit großem Respekt vor Celta Vigo",
+          "snippet": "",
+          "url": "https://www.sportschau.de/regional/swr/swr-trotz-guter-ausgangslage-sc-freiburg-mit-grossem-respekt-vor-celta-vigo-100.html",
+          "source": "sportschau.de"
+        },
+        {
+          "title": "Liveticker aus Vigo: SC-Freiburg-Fans vor Ort fiebern auf den Anpfiff hin",
+          "snippet": "",
+          "url": "https://www.badische-zeitung.de/liveticker-aus-vigo-sc-freiburg-fans-vor-ort-fiebern-auf-den-anpfiff-hin",
+          "source": "Badische Zeitung"
+        }
+      ],
+      "link": "https://imtaqin.id/",
+      "geo": "DE",
+      "geo_name": "德国"
+    },
+    {
+      "title": "maybrit illner maybrit illner",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 16 Apr 2026 08:50:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBsvPcePrQp8lJENTkG9xKjSkf1VMzbMTO3NHXmztyjV7AGZv5e48IkbN2cNY",
+      "pictureSource": "ZDFheute",
+      "relatedSearch": [
+        {
+          "title": "Selenskyj exklusiv im ZDF-Interview mit Illner: US-Verhandler \"haben keine Zeit für Ukraine\"",
+          "snippet": "",
+          "url": "https://www.zdfheute.de/politik/ausland/selenskyj-illner-ukraine-krieg-russland-100.html",
+          "source": "ZDFheute"
+        },
+        {
+          "title": "ZDF-Interview: USA haben wegen Iran-Krieg „keine Zeit für die Ukraine“, fürchtet Selenskyj",
+          "snippet": "",
+          "url": "https://www.welt.de/politik/ausland/article69dea5b9eb7a70750aaf7a92/zdf-interview-usa-haben-wegen-iran-krieg-keine-zeit-fuer-die-ukraine-fuerchtet-selenskyj.html",
+          "source": "WELT"
+        },
+        {
+          "title": "Selenskyj: Der Mangel an Patriot-Raketen \"könnte schlimmer nicht sein\"",
+          "snippet": "",
+          "url": "https://de.euronews.com/my-europe/2026/04/16/selenskyj-der-mangel-an-patriot-raketen-konnte-schlimmer-nicht-sein",
+          "source": "Euronews.com"
+        }
+      ],
+      "link": "https://imtaqin.id/",
+      "geo": "DE",
+      "geo_name": "德国"
+    },
+    {
+      "title": "andy borg",
+      "trafficCount": "1000+",
+      "pubDate": "Thu, 16 Apr 2026 08:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8f6Llta-ebB4Lnm1ALVB7-ciEkrFUcktJ_WeF7w_nA-1ZcvC6nxeYD0xen2g",
+      "pictureSource": "T-Online",
+      "relatedSearch": [
+        {
+          "title": "SWR streicht \"Schlager-Spaß mit Andy Borg\" im Mai",
+          "snippet": "",
+          "url": "https://www.t-online.de/unterhaltung/tv/id_101216102/swr-streicht-schlager-spass-mit-andy-borg-im-mai.html",
+          "source": "T-Online"
+        },
+        {
+          "title": "„Schlager-Spaß mit Andy Borg“: Bittere Nachricht für Fans im Mai – SWR ändert das Programm",
+          "snippet": "",
+          "url": "https://www.innsalzach24.de/stars/schlager-spass-mit-andy-borg-bittere-nachricht-fuer-fans-im-mai-swr-aendert-das-programm-94264984.html",
+          "source": "Innsalzach24"
+        },
+        {
+          "title": "SWR streicht \"Schlager-Spaß mit Andy Borg\" im Mai",
+          "snippet": "",
+          "url": "https://www.tvspielfilm.de/news/tv/swr-streicht-schlager-spass-mit-andy-borg-im-mai,13314682,ApplicationArticle.html",
+          "source": "TV Spielfilm"
+        }
+      ],
+      "link": "https://imtaqin.id/",
+      "geo": "DE",
+      "geo_name": "德国"
+    },
+    {
+      "title": "inside aida rtl",
+      "trafficCount": "2000+",
+      "pubDate": "Thu, 16 Apr 2026 08:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJRX4J8JnY19MrmtR58IHOJVuDeWkt_agTIM6mOQ5Jz7eU8T8aQ4OI5DTjvK0",
+      "pictureSource": "Freenet",
+      "relatedSearch": [
+        {
+          "title": "RTL-Doku legt Gehalt von AIDA-Mitarbeitern offen - und zeigt gravierenden Unterschied",
+          "snippet": "",
+          "url": "https://www.freenet.de/unterhaltung/medien/rtl-doku-legt-gehalt-von-aida-mitarbeitern-offen-und-zeigt-gravierenden-unterschied-40520832.html",
+          "source": "Freenet"
+        },
+        {
+          "title": "9.000 Rollen Klopapier und Geheimnisse über Aida: RTL macht dreiste Werbesendung",
+          "snippet": "",
+          "url": "https://www.focus.de/kultur/kino-tv/9-000-rollen-klopapier-und-geheimnisse-ueber-aida-rtl-macht-dreiste-werbesendung_02ad777b-2e13-4391-aca2-5e19463a59ea.html",
+          "source": "FOCUS online"
+        },
+        {
+          "title": "RTL-Doku-Highlight im April! Wir blicken hinter die Kulissen dieser beliebten Marken",
+          "snippet": "",
+          "url": "https://www.rtl.de/unterhaltung/inside-ikea-zeigt-die-geheimnisse-hinter-den-kulissen-jetzt-auf-rtl-schauen-id30511602.html",
+          "source": "RTL.de"
+        }
+      ],
+      "link": "https://imtaqin.id/",
+      "geo": "DE",
+      "geo_name": "德国"
+    },
+    {
+      "title": "aldi süd",
+      "trafficCount": "1000+",
+      "pubDate": "Thu, 16 Apr 2026 08:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0MSkQVKifDnhamFDDSVWpfvTAU-dx_RsTi48WA_u48t3nUo7GjoR32V8wN8Y",
+      "pictureSource": "Business Insider Deutschland",
+      "relatedSearch": [
+        {
+          "title": "Aldi Süd soll offenbar weltweit neues Design bekommen – was bekannt ist",
+          "snippet": "",
+          "url": "https://www.businessinsider.de/wirtschaft/aldi-sued-soll-offenbar-weltweit-neues-design-bekommen-was-bekannt-ist/",
+          "source": "Business Insider Deutschland"
+        },
+        {
+          "title": "Aldi Süd krempelt seine Filialen um: Das plant der Discounter jetzt",
+          "snippet": "",
+          "url": "https://www.t-online.de/leben/aktuelles/id_101215088/aldi-sued-ueberarbeitet-ladendesign-neues-discounter-konzept-kommt-weltweit.html",
+          "source": "T-Online"
+        },
+        {
+          "title": "Glow-up beim Discounter: Dein Einkauf bei Aldi wird bald richtig schick",
+          "snippet": "",
+          "url": "https://www.desired.de/lifestyle/glow-up-beim-discounter-dein-einkauf-bei-aldi-wird-bald-richtig-schick--01KPBDDCKS6MT607VTTEQ57B40",
+          "source": "desired.de"
+        }
+      ],
+      "link": "https://imtaqin.id/",
+      "geo": "DE",
+      "geo_name": "德国"
+    },
+    {
+      "title": "alexander nübel",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 16 Apr 2026 08:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR68S4VO3SbjpHyoEobuCY98XBU0cxp_9ibbbtLuaBM3UlM6PD3xvpBDTmO3Yo",
+      "pictureSource": "BILD",
+      "relatedSearch": [
+        {
+          "title": "VfB Stuttgart: Vor den Augen der Bayern-Bosse: Nübel spielt um seine VfB-Zukunft",
+          "snippet": "",
+          "url": "https://www.bild.de/sport/fussball/vfb-stuttgart-vor-den-augen-der-bayern-bosse-nuebel-spielt-um-seine-vfb-zukunft-69e0959a7711c440ff1d895b",
+          "source": "BILD"
+        },
+        {
+          "title": "Jensen und Kusi-Asare treffen, Aseko weiter im Aufstiegsrennen",
+          "snippet": "",
+          "url": "https://fcbayern.com/de/news/2026/04/loan-watch-mit-jensen-aseko--co",
+          "source": "FC Bayern"
+        }
+      ],
+      "link": "https://imtaqin.id/",
+      "geo": "DE",
+      "geo_name": "德国"
+    },
+    {
+      "title": "hugo bolin",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 16 Apr 2026 08:40:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwux4nZzTwzwHxxHzo-Bro9hJeoOCXWZcgKuPAt2oeKe3YZih-cmBsj9oB9Wg",
+      "pictureSource": "BILD",
+      "relatedSearch": [
+        {
+          "title": "Borussia Mönchengladbach: Hugo Bolin kündigt Baller-Premiere an!",
+          "snippet": "",
+          "url": "https://www.bild.de/sport/fussball/borussia-moenchengladbach-hugo-bolin-kuendigt-baller-premiere-an-69e0ba5693130bd3499d3916",
+          "source": "BILD"
+        },
+        {
+          "title": "Bolin: „Dafür werden wir alles investieren“",
+          "snippet": "",
+          "url": "https://www.borussia.de/news/bolin-dafuer-werden-wir-alles-investieren",
+          "source": "Borussia Mönchengladbach"
+        },
+        {
+          "title": "Pleite im ersten Duell Gladbach-Talent verrät: Sein bester Freund spielt bei Bundesliga-Gegner",
+          "snippet": "",
+          "url": "https://www.gladbachlive.de/news/gladbach-talent-verraet-bester-freund-spielt-bei-bundesliga-gegner-1261423",
+          "source": "GladbachLIVE"
+        }
+      ],
+      "link": "https://imtaqin.id/",
+      "geo": "DE",
+      "geo_name": "德国"
+    },
+    {
+      "title": "セルタ 対 フライブルク",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 16 Apr 2026 09:00:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNeBwdMNjshfFZVjHn8L9b5cLzrxiJTZABkTbKIhHbSbKEgjaWn0CnWsFkVw",
+      "pictureSource": "千葉テレビ放送",
+      "relatedSearch": [
+        {
+          "title": "鈴木唯人、W杯日本代表入りへ前進！南野拓実離脱の他に「ブンデスリーガ5位」のデータ後押し | チバテレ＋プラス",
+          "snippet": "",
+          "url": "https://www.chiba-tv.com/plus/detail/2026041509023",
+          "source": "千葉テレビ放送"
+        },
+        {
+          "title": "鈴木唯、Ｗ杯へアピール",
+          "snippet": "",
+          "url": "https://www.shimotsuke.co.jp/articles/-/1325106",
+          "source": "下野新聞社"
+        },
+        {
+          "title": "日本代表MFの“股抜きドリブル”が圧巻！スピード＆テクニックで相手2人をぶち抜いた瞬間 鈴木唯人がELで躍動",
+          "snippet": "",
+          "url": "https://topics.smt.docomo.ne.jp/article/abematimes/sports/abematimes-10238181",
+          "source": "ｄメニューニュース"
+        }
+      ],
+      "link": "https://imtaqin.id/",
+      "geo": "JP",
+      "geo_name": "日本"
+    },
+    {
+      "title": "ヴィッセル神戸",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 16 Apr 2026 09:00:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB9T92S-WY1h5nJfoI5jqk4j0-iVEb4x0eMY60-7Gl2uVXuu5xHLyvhVEi-nk",
+      "pictureSource": "Yahoo!ニュース",
+      "relatedSearch": [
+        {
+          "title": "神戸のスタメンが発表！ カタール強豪との一発勝負の準々決勝に前川、大迫、武藤らが先発【ACLE】（SOCCER DIGEST Web）",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/aeae693911c0eec6d6667e1642cf689448b30185",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "ACLEファイナルズ開幕! “世界規格”アルイテハドに挑む",
+          "snippet": "",
+          "url": "https://www.zelvia.co.jp/news/news-345734/",
+          "source": "町田ゼルビア"
+        },
+        {
+          "title": "準々決勝のアルイティハド戦を前に記者会見する町田・昌子＝16日、ジッダ（共同） - 昌子「王者になりに来た」 町田、ACLE準々決勝へ - 写真・画像(1/1)",
+          "snippet": "",
+          "url": "https://www.nishinippon.co.jp/image/1030310/",
+          "source": "西日本新聞me"
+        }
+      ],
+      "link": "https://imtaqin.id/",
+      "geo": "JP",
+      "geo_name": "日本"
+    },
+    {
+      "title": "イーロン・マスク",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 16 Apr 2026 08:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTf_-o_t8l_jzSRWmIb8jxrcfvyBU-Om1bUkxXjfImnPTNJ14TjdYQ0gbdHcqM",
+      "pictureSource": "Forbes JAPAN",
+      "relatedSearch": [
+        {
+          "title": "「計4兆円のビットコイン」トランプとマスク、10万ドルへの賭けは実るか",
+          "snippet": "",
+          "url": "https://forbesjapan.com/articles/detail/95889",
+          "source": "Forbes JAPAN"
+        },
+        {
+          "title": "トランプ大統領とイーロン・マスク氏の巨額ビットコイン準備金、4兆円の賭け（ビジネス＋IT）",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/823458d5271993619734680783cc4f9ba0517284",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "今日の仮想通貨市況＞ＢＴＣは７万５０００ドル手前、売り一巡後に下げ渋り トップ",
+          "snippet": "",
+          "url": "https://kabushiki.jp/news/745038",
+          "source": "株式新聞"
+        }
+      ],
+      "link": "https://imtaqin.id/",
+      "geo": "JP",
+      "geo_name": "日本"
+    },
+    {
+      "title": "さや香 新山",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 16 Apr 2026 08:50:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQm5HBOjC-Yzqbj4H2mXap5oUX6FOXiHrbcswaLfAx3qNlf10EQ9ogiRl-h8t0",
+      "pictureSource": "TBS NEWS DIG",
+      "relatedSearch": [
+        {
+          "title": "【 さや香・新山 】 「5か月で-13kg」 減量法を告白 「寿司屋行ってもトロとかサーモン食べなかった。脂のってるから」「毎日1時間半ジム」",
+          "snippet": "",
+          "url": "https://newsdig.tbs.co.jp/articles/-/2604695",
+          "source": "TBS NEWS DIG"
+        },
+        {
+          "title": "さや香・新山、5か月で82㎏→68.8㎏肉体改造の方法 プロテインは毎日「2L近く」、「一切有酸素運動してない」",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/111ac76d734c301e6b628b82d10ca35c037ef3f0",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "さや香・新山、5か月で82㎏→68.8㎏肉体改造の方法　プロテインは毎日「2L近く」、「一切有酸素運動してない」 | チバテレ＋プラス",
+          "snippet": "",
+          "url": "https://www.chiba-tv.com/plus/detail/2026041527722",
+          "source": "千葉テレビ放送"
+        }
+      ],
+      "link": "https://imtaqin.id/",
+      "geo": "JP",
+      "geo_name": "日本"
+    },
+    {
+      "title": "プロ野球 速報 巨人",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 16 Apr 2026 08:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-l-UtzOiYGS9tGSYL-Q0bFEK4Lqfecu_h4nS02tA4bqPPmWx9hL65JnkEOR8",
+      "pictureSource": "Yahoo!ニュース",
+      "relatedSearch": [
+        {
+          "title": "谷繁元信氏、二軍生活が続く巨人・甲斐拓也に言及「信頼が少し薄れたのではないか」（ベースボールチャンネル）",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/859316e35c5c852ea51037d98b172f0c13627356",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "【巨人】甲斐拓也 過酷トレ敢行で〝二軍の教材化〟 待たれる一軍昇格は「伊織が投げる時に」の声",
+          "snippet": "",
+          "url": "https://www.tokyo-sports.co.jp/articles/-/384649",
+          "source": "東スポWEB"
+        },
+        {
+          "title": "巨人・甲斐拓也「２軍でもヒドイ成績」５年15億円男が１軍帰還するための「交流戦までの打撃Ｖ字復活」",
+          "snippet": "",
+          "url": "https://www.asagei.com/excerpt/347370",
+          "source": "アサ芸プラス"
+        }
+      ],
+      "link": "https://imtaqin.id/",
+      "geo": "JP",
+      "geo_name": "日本"
+    },
+    {
+      "title": "メタクエスト3",
+      "trafficCount": "100+",
+      "pubDate": "Thu, 16 Apr 2026 08:40:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2wSkmiELe0UCE58JYx3ZJIY_LltVJ49pfRslf_SgHXwGraSanQhvzkghmh5I",
+      "pictureSource": "Bloomberg.com",
+      "relatedSearch": [
+        {
+          "title": "Meta Raises Prices of Quest VR Headsets on Growing Memory Costs",
+          "snippet": "",
+          "url": "https://www.bloomberg.com/news/articles/2026-04-16/meta-hikes-prices-of-quest-3s-quest-3-vr-headsets-on-rising-memory-costs",
+          "source": "Bloomberg.com"
+        },
+        {
+          "title": "Meta Quest headset prices are going up on April 19",
+          "snippet": "",
+          "url": "https://www.engadget.com/ar-vr/meta-quest-headset-prices-are-going-up-on-april-19-143259031.html",
+          "source": "Engadget"
+        },
+        {
+          "title": "Meta blames RAM shortage for $100 Quest 3 price hike",
+          "snippet": "",
+          "url": "https://www.theverge.com/tech/912921/meta-quest-3-3s-vr-price-hike-ram-memory-shortage",
+          "source": "The Verge"
+        }
+      ],
+      "link": "https://imtaqin.id/",
+      "geo": "JP",
+      "geo_name": "日本"
+    },
+    {
+      "title": "昭和天皇",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 16 Apr 2026 08:30:00 -0700",
+      "picture": "",
+      "pictureSource": "",
+      "relatedSearch": [],
+      "link": "https://imtaqin.id/",
+      "geo": "JP",
+      "geo_name": "日本"
+    },
+    {
+      "title": "河合優実",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 16 Apr 2026 08:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPbhuV2OTz0_C_WyS-MJkEnZFnYP0Vz54WN7aStYhMzYjZHMyVzQ7AT7R3q-4",
+      "pictureSource": "テレ朝NEWS",
+      "relatedSearch": [
+        {
+          "title": "河合優実が勇気を出した瞬間「俳優の仕事を始めた時」 両親には「ジワジワ言って…」",
+          "snippet": "",
+          "url": "https://news.tv-asahi.co.jp/news_geinou/articles/000498409.html",
+          "source": "テレ朝NEWS"
+        },
+        {
+          "title": "「サントリー生ビール」新TV-CM 「沁みるあゆみさん（勇気）」篇 4月20日（月）から全国で順次オンエア",
+          "snippet": "",
+          "url": "https://www.okinawatimes.co.jp/articles/-/1816439",
+          "source": "沖縄タイムス社"
+        },
+        {
+          "title": "河合優実が瀬戸内海の絶景で「イェイ！」とジョッキを空に！サントリー生ビールの新テレビＣＭ２０日から全国でオンエア",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/4ec83fdec2a4241585a09f952f6ed29c41ebeb6d",
+          "source": "Yahoo!ニュース"
+        }
+      ],
+      "link": "https://imtaqin.id/",
+      "geo": "JP",
+      "geo_name": "日本"
+    },
+    {
+      "title": "アンジェラアキ",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 16 Apr 2026 08:30:00 -0700",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuhjvYCg01pqDku-pOPmac8vq8Ea_FVpOr4yn_1rrkHQwNX5c0PglojhYgSMk",
+      "pictureSource": "Yahoo!ニュース",
+      "relatedSearch": [
+        {
+          "title": "アンジェラ・アキ 6年前から心理カウンセリングを受けていると明かす「自分がわりと追いつめられて」（スポニチアネックス）",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/3b69bd7e0cf17858ae832091b3b0a5041161f44e",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "アンジェラ・アキ、精神的に追い詰められた経験を話す 「自分が自分のパートナーになることで脱出した」",
+          "snippet": "",
+          "url": "https://article.auone.jp/detail/1/5/9/252_9_r_20260414_1776132746884027",
+          "source": "au Webポータル"
+        },
+        {
+          "title": "アンジェラ・アキ　母が有名女性シンガー・ソングライターの母と知り合いと明かす「いつかそれを言おうと」",
+          "snippet": "",
+          "url": "https://topics.smt.docomo.ne.jp/article/sponichi/entertainment/sponichi-spngoo-20260410-0351",
+          "source": "ｄメニューニュース"
+        }
+      ],
+      "link": "https://imtaqin.id/",
+      "geo": "JP",
+      "geo_name": "日本"
+    },
+    {
+      "title": "プラグマタ 発売日",
+      "trafficCount": "1000+",
+      "pubDate": "Thu, 16 Apr 2026 08:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGhHgTzogjM1QwjPQ5JB6YcjaVbY-wCOWTir4P9-UFDN_5VnFFIDLI_ikDm6Y",
+      "pictureSource": "Yahoo!ニュース",
+      "relatedSearch": [
+        {
+          "title": "カプコン新作『プラグマタ』本日発売！アンドロイド少女とおじさんが月面世界を探索するバディものアクションADVはレビューも好調―スイッチ2版は24日登場（Game Spark）",
+          "snippet": "",
+          "url": "https://news.yahoo.co.jp/articles/5a3abe269fbd821ed943bb4e1149e5cd796f2f8a",
+          "source": "Yahoo!ニュース"
+        },
+        {
+          "title": "「プラグマタ」PS5/Xbox Series X|S/Steam版が本日発売。パズルとアクションが融合したSFアクションADV",
+          "snippet": "",
+          "url": "https://game.watch.impress.co.jp/docs/news/2101364.html",
+          "source": "GAME Watch"
+        },
+        {
+          "title": "『プラグマタ』最新トレーラーが公開。ディアナの姉妹機にあたるアンドロイド「エイト」が登場",
+          "snippet": "",
+          "url": "https://news.denfaminicogamer.jp/news/260415n",
+          "source": "電ファミニコゲーマー"
+        }
+      ],
+      "link": "https://imtaqin.id/",
+      "geo": "JP",
+      "geo_name": "日本"
+    },
+    {
+      "title": "cade cunningham",
+      "trafficCount": "50000+",
+      "pubDate": "Thu, 16 Apr 2026 09:00:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWvw9Fw0AYLgPl6LFTFnDt3bZ1tKEdi2oxjayoxp9sRlAxS1wABXkxMsw_lvs",
+      "pictureSource": "ESPN",
+      "relatedSearch": [
+        {
+          "title": "Luka Doncic, Cade Cunningham eligible for NBA season awards",
+          "snippet": "",
+          "url": "https://www.espn.com/nba/story/_/id/48504211/luka-doncic-cade-cunningham-eligible-nba-season-awards",
+          "source": "ESPN"
+        },
+        {
+          "title": "Luka Dončić, Cade Cunningham win appeals, will be eligible for end-of-season NBA awards",
+          "snippet": "",
+          "url": "https://www.nytimes.com/athletic/7198673/2026/04/16/luka-doncic-cade-cunningham-awards-nba-appeal/",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Should Detroit Pistons’ star Cade Cunningham get exception from 65-game rule due to pneumothorax?",
+          "snippet": "",
+          "url": "https://www.clickondetroit.com/sports/2026/04/16/should-detroit-pistons-star-cade-cunningham-get-exception-from-65-game-rule-due-to-pneumothorax/",
+          "source": "ClickOnDetroit | WDIV Local 4"
+        }
+      ],
+      "link": "https://imtaqin.id/",
+      "geo": "US",
+      "geo_name": "美国"
+    },
+    {
+      "title": "nba mvp odds",
+      "trafficCount": "1000+",
+      "pubDate": "Thu, 16 Apr 2026 09:00:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvQo535tQaWHVAQ2de3Hl3J88GpHU72R_FXx6rhkrClXoC9xbShTceS4aauhs",
+      "pictureSource": "The New York Times",
+      "relatedSearch": [
+        {
+          "title": "Anonymous NBA player poll 2026: Who is this season’s MVP? SGA, Jokić or Dončić?",
+          "snippet": "",
+          "url": "https://www.nytimes.com/athletic/7176470/2026/04/10/anonymous-nba-player-poll-2026-mvp-jokic-sga/",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Here's my unofficial 2025-26 NBA Awards ballot",
+          "snippet": "",
+          "url": "https://sports.yahoo.com/articles/heres-unofficial-2025-26-nba-160117326.html",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "NBA awards odds: Latest MVP, DPOY and major award favorites",
+          "snippet": "",
+          "url": "https://www.usatoday.com/story/sports/nba/2026/04/15/nba-awards-odds-mvp-favorites/89627318007/",
+          "source": "USA Today"
+        }
+      ],
+      "link": "https://imtaqin.id/",
+      "geo": "US",
+      "geo_name": "美国"
+    },
+    {
+      "title": "celta de vigo - friburgo",
+      "trafficCount": "2000+",
+      "pubDate": "Thu, 16 Apr 2026 08:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwGxGDvUMZpJDBJpxVbKws8P3PiCRMQ0lQkDLF9VWRhlA2lEiBFY0iONTSnPA",
+      "pictureSource": "EL PAÍS",
+      "relatedSearch": [
+        {
+          "title": "Celta – Friburgo: horario y dónde ver la vuelta de cuartos de la Europa League",
+          "snippet": "",
+          "url": "https://elpais.com/deportes/futbol/2026-04-16/celta-friburgo-horario-y-donde-ver-la-vuelta-de-cuartos-de-la-europa-league.html",
+          "source": "EL PAÍS"
+        },
+        {
+          "title": "El espíritu de 2000",
+          "snippet": "",
+          "url": "https://as.com/futbol/uefa/el-espiritu-de-2000-f202604-n/",
+          "source": "Diario AS"
+        },
+        {
+          "title": "La afición celeste llena las inmediaciones de Balaídos para recibir al equipo",
+          "snippet": "",
+          "url": "https://www.farodevigo.es/videos/celta-de-vigo/2026/04/16/aficion-celeste-llena-inmediaciones-balaidos-129185870.html",
+          "source": "Faro de Vigo"
+        }
+      ],
+      "link": "https://imtaqin.id/",
+      "geo": "US",
+      "geo_name": "美国"
+    },
+    {
+      "title": "celta vigo vs sc freiburg",
+      "trafficCount": "1000+",
+      "pubDate": "Thu, 16 Apr 2026 08:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQajzfFrgO0dza8RtmgiwdDAAA4TgA8-_iwiMDtTjO6UXvFYNmB-QLW5bHOCVQ",
+      "pictureSource": "Sports Mole",
+      "relatedSearch": [
+        {
+          "title": "Preview: Celta Vigo vs Freiburg - prediction, team news, lineups",
+          "snippet": "",
+          "url": "https://www.sportsmole.co.uk/football/celta-vigo/europa-league/preview/celta-vigo-vs-freiburg-prediction-team-news-lineups_595692.html",
+          "source": "Sports Mole"
+        },
+        {
+          "title": "Celta Vigo vs. Freiburg Europa League prediction, start time, how to watch",
+          "snippet": "",
+          "url": "https://www.usatoday.com/story/sports/soccer/2026/04/16/celta-vigo-freiburg-prediction-odds-where-to-watch-europa-league/89634055007/",
+          "source": "USA Today"
+        },
+        {
+          "title": "Germany Europa League Soccer",
+          "snippet": "",
+          "url": "https://www.chronicle-tribune.com/sports/wire/germany-europa-league-soccer/image_1523275d-e8be-5440-ad7d-fcd69122b50b.html",
+          "source": "Chronicle-Tribune"
+        }
+      ],
+      "link": "https://imtaqin.id/",
+      "geo": "US",
+      "geo_name": "美国"
+    },
+    {
+      "title": "james gunn",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 16 Apr 2026 08:50:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8jqkCQMXzGE8VCyB5sOtSmIQ87RHqElxsXl7DUEkjHNA-4R03BkLn_B-Yd4g",
+      "pictureSource": "The Hollywood Reporter",
+      "relatedSearch": [
+        {
+          "title": "‘Man of Tomorrow’: Adria Arjona Wins Role in ‘Superman’ Sequel (Exclusive)",
+          "snippet": "",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/superman-man-of-tomorrow-adria-arjona-cast-1236560352/",
+          "source": "The Hollywood Reporter"
+        },
+        {
+          "title": "Adria Arjona to Play Maxima in ‘Superman’ Sequel ‘Man of Tomorrow’",
+          "snippet": "",
+          "url": "https://variety.com/2026/film/news/adria-arjona-maxima-superman-sequel-man-of-tomorrow-1236721502/",
+          "source": "Variety"
+        },
+        {
+          "title": "Andor Star Adria Arjona Confirmed to Play Maxima in James Gunn’s Superman Sequel, Man of Tomorrow",
+          "snippet": "",
+          "url": "https://www.ign.com/articles/man-of-tomorrow-maxima-casting-confirmed",
+          "source": "IGN"
+        }
+      ],
+      "link": "https://imtaqin.id/",
+      "geo": "US",
+      "geo_name": "美国"
+    },
+    {
+      "title": "john waters",
+      "trafficCount": "1000+",
+      "pubDate": "Thu, 16 Apr 2026 08:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSldMxrwY1JSAxk8oRre1j3d_23jxZ4nDvE_YZIsOGQtJ3dlMmC7uuRVPyIYow",
+      "pictureSource": "SFGATE",
+      "relatedSearch": [
+        {
+          "title": "Legendary filmmaker John Waters throws lewd 80th birthday bash in Berkeley",
+          "snippet": "",
+          "url": "https://www.sfgate.com/sf-culture/article/john-waters-birthday-22206145.php",
+          "source": "SFGATE"
+        },
+        {
+          "title": "Don't be a 'Cry-Baby': movie quiz on cult director John Waters",
+          "snippet": "",
+          "url": "https://www.timesunion.com/projects/movies/2026/john-waters-movies/",
+          "source": "Times Union"
+        },
+        {
+          "title": "John Waters on AI, LA’s pros and cons, and why he thinks laughter can bring the country together",
+          "snippet": "",
+          "url": "https://laist.com/news/arts-and-entertainment/john-waters-ai-artifical-intelligence-los-angeles-laughter",
+          "source": "LAist"
+        }
+      ],
+      "link": "https://imtaqin.id/",
+      "geo": "US",
+      "geo_name": "美国"
+    },
+    {
+      "title": "judge blocks indiana student id ban",
+      "trafficCount": "500+",
+      "pubDate": "Thu, 16 Apr 2026 08:40:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvxbPoGVcW2EYxG5K6LA9UwwophEfq_Yh07ao2aSCDXrcjCDPLnDVXengn_68",
+      "pictureSource": "Indiana Capital Chronicle",
+      "relatedSearch": [
+        {
+          "title": "Federal judge blocks Indiana’s ban on use of student IDs for voting",
+          "snippet": "",
+          "url": "https://indianacapitalchronicle.com/2026/04/14/federal-judge-blocks-indianas-ban-on-use-of-student-ids-for-voting/",
+          "source": "Indiana Capital Chronicle"
+        },
+        {
+          "title": "Federal judge blocks Indiana ban on student ID for voting",
+          "snippet": "",
+          "url": "https://www.foxnews.com/politics/federal-judge-blocks-indiana-ban-student-id-voting",
+          "source": "Fox News"
+        },
+        {
+          "title": "In major win for voters, judge blocks Indiana GOP’s student ID ban",
+          "snippet": "",
+          "url": "https://www.democracydocket.com/news-alerts/judge-blocks-indiana-gops-student-id-ban/",
+          "source": "Democracy Docket"
+        }
+      ],
+      "link": "https://imtaqin.id/",
+      "geo": "US",
+      "geo_name": "美国"
+    },
+    {
+      "title": "miniseries",
+      "trafficCount": "200+",
+      "pubDate": "Thu, 16 Apr 2026 08:40:00 -0700",
+      "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlI9VFy33afeoDS997evaGslX_kFyopA7Ul7-ta6Ervr9bl4LDBzQ87ZoOtVc",
+      "pictureSource": "Tom's Guide",
+      "relatedSearch": [
+        {
+          "title": "3 best Netflix thriller miniseries to binge-watch in one weekend",
+          "snippet": "",
+          "url": "https://www.tomsguide.com/entertainment/netflix/3-best-netflix-thriller-miniseries-to-binge-watch-in-one-weekend-april-2026",
+          "source": "Tom's Guide"
+        },
+        {
+          "title": "8 Netflix Thriller Miniseries That Are 10/10 But Nobody Remembers Them",
+          "snippet": "",
+          "url": "https://movieweb.com/netflix-thriller-miniseries-forgotten/",
+          "source": "MovieWeb"
+        },
+        {
+          "title": "15 Best Western Miniseries Ever Made, Ranked",
+          "snippet": "",
+          "url": "https://www.tvline.com/2146263/best-western-miniseries-ever-ranked/",
+          "source": "TVLine"
+        }
+      ],
+      "link": "https://imtaqin.id/",
+      "geo": "US",
+      "geo_name": "美国"
+    },
+    {
+      "title": "strait of hormuz news",
+      "trafficCount": "5000+",
+      "pubDate": "Thu, 16 Apr 2026 08:30:00 -0700",
+      "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjkSK3PTyX0TfXaoKbwxHJgTXtMY5TrSDzLGdwS6p9OcLrdYYAFJQATFEji2A",
+      "pictureSource": "NPR",
+      "relatedSearch": [
+        {
+          "title": "3 things to know about naval blockades as U.S. begins patrols in the Strait of Hormuz",
+          "snippet": "",
+          "url": "https://www.npr.org/2026/04/16/nx-s1-5783870/strait-of-hormuz-naval-blockade",
+          "source": "NPR"
+        },
+        {
+          "title": "Iran threatens shipping in Red Sea if U.S. blockade continues",
+          "snippet": "",
+          "url": "https://www.cnn.com/2026/04/16/world/video/economy-oil-red-sea-gas-prices-nasseri-intv-ctw-041609aseg2-cnni-world-fast",
+          "source": "CNN"
+        },
+        {
+          "title": "Iran can go up to two months without oil exports before cutting output, analysts say",
+          "snippet": "",
+          "url": "https://www.reuters.com/business/energy/iran-can-go-up-two-months-without-oil-exports-before-cutting-output-analysts-say-2026-04-15/",
+          "source": "Reuters"
+        }
+      ],
+      "link": "https://imtaqin.id/",
+      "geo": "US",
+      "geo_name": "美国"
+    },
+    {
+      "title": "801 chophouse",
+      "trafficCount": "1000+",
+      "pubDate": "Thu, 16 Apr 2026 08:30:00 -0700",
+      "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkCP5bOaQLqT7nm0uzwTVT94e1xzvUCx2t8qw_s4wouVjaOWgr54XXbQvPwMI",
+      "pictureSource": "Bring Me The News",
+      "relatedSearch": [
+        {
+          "title": "Restaurant group files for bankruptcy, closing 1 of its 2 downtown Minneapolis eateries",
+          "snippet": "",
+          "url": "https://bringmethenews.com/minnesota-lifestyle/restaurant-group-files-for-bankruptcy-closing-1-of-its-2-downtown-minneapolis-eateries",
+          "source": "Bring Me The News"
+        },
+        {
+          "title": "What 801 Chophouse’s bankruptcy means for diners in Des Moines",
+          "snippet": "",
+          "url": "https://www.desmoinesregister.com/story/entertainment/dining/2026/04/15/801-chophouse-bankruptcy-des-moines/89630480007/",
+          "source": "The Des Moines Register"
+        },
+        {
+          "title": "Steakhouse group 801 Restaurants files for Chapter 11 bankruptcy",
+          "snippet": "",
+          "url": "https://restaurantbusinessonline.com/financing/steakhouse-group-801-restaurants-files-chapter-11-bankruptcy",
+          "source": "Restaurant Business"
+        }
+      ],
+      "link": "https://imtaqin.id/",
+      "geo": "US",
+      "geo_name": "美国"
+    }
+  ]
+}

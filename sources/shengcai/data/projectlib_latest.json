@@ -1,0 +1,804 @@
+{
+  "success": true,
+  "status": 0,
+  "message": null,
+  "data": {
+    "items": [
+      {
+        "id": 11,
+        "name": "微信小程序",
+        "coverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/1d1ae7ba7b7346df9512a8329df413aa/image_011_9a7253c7.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "miniCoverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/1d1ae7ba7b7346df9512a8329df413aa/image_011_9a7253c7.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "incomeMin": 1500,
+        "incomeMax": 17200,
+        "highlightText": "刚需痛点｜产品化交付｜长期复利",
+        "dailyMinutes": 360,
+        "estimatedCost": 200,
+        "platformMenus": [],
+        "monetizeMenus": [
+          {
+            "id": 7613564,
+            "name": "虚拟产品销售"
+          }
+        ],
+        "crowdMenus": [
+          {
+            "id": 9152960,
+            "name": "编程技术"
+          }
+        ],
+        "likeCount": 80,
+        "gmtPublish": 1770782406,
+        "summary": "用AI开发解决具体痛点的微信小程序，不需要懂代码，找到需求就能做产品化变现",
+        "caseCount": 12,
+        "resourceCount": 5,
+        "isSuper": false,
+        "isInActivity": true,
+        "superTopicId": null
+      },
+      {
+        "id": 102,
+        "name": "个人成长工具包",
+        "coverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-03-05/006edd5b283d4e02bf680a45961518b2/103_c0_i0_cropped.png.optimized.png?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "miniCoverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-03-05/006edd5b283d4e02bf680a45961518b2/103_c0_i0_cropped.png.optimized.png?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "incomeMin": 3000,
+        "incomeMax": 60000,
+        "highlightText": "决策门槛低｜自动发货｜长尾收益",
+        "dailyMinutes": 90,
+        "estimatedCost": 0,
+        "platformMenus": [
+          {
+            "id": 387781,
+            "name": "小红书"
+          }
+        ],
+        "monetizeMenus": [
+          {
+            "id": 7613564,
+            "name": "虚拟产品销售"
+          }
+        ],
+        "crowdMenus": [
+          {
+            "id": 9479762,
+            "name": "无需技能"
+          }
+        ],
+        "likeCount": 56,
+        "gmtPublish": 1772796942,
+        "summary": "卖Notion模板、话术库、打卡表等个人成长工具包，低价冲动消费走量，自动发货零边际成本",
+        "caseCount": 8,
+        "resourceCount": 8,
+        "isSuper": false,
+        "isInActivity": false,
+        "superTopicId": null
+      },
+      {
+        "id": 73,
+        "name": "YouTube 联盟营销",
+        "coverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/b107e09612674883bff9d4e0f6928a4d/project_img_1770182664286___42___2_dc838c39.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "miniCoverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/b107e09612674883bff9d4e0f6928a4d/project_img_1770182664286___42___2_dc838c39.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "incomeMin": 3300,
+        "incomeMax": 14100,
+        "highlightText": "亿级月活｜平台官方推｜不用露脸",
+        "dailyMinutes": 180,
+        "estimatedCost": 3000,
+        "platformMenus": [
+          {
+            "id": 387806,
+            "name": "YouTube"
+          }
+        ],
+        "monetizeMenus": [
+          {
+            "id": 7613560,
+            "name": "创作者分成"
+          },
+          {
+            "id": 7613565,
+            "name": "电商带货"
+          }
+        ],
+        "crowdMenus": [
+          {
+            "id": 9479761,
+            "name": "电商销售"
+          }
+        ],
+        "likeCount": 32,
+        "gmtPublish": 1770782407,
+        "summary": "在YouTube拍产品开箱测评视频挂联盟营销链接，不用囤货不用露脸，观众下单你拿提成",
+        "caseCount": 6,
+        "resourceCount": 4,
+        "isSuper": false,
+        "isInActivity": false,
+        "superTopicId": null
+      },
+      {
+        "id": 35,
+        "name": "AI 广告",
+        "coverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/9b5defb4a1f94341ae1ad37275e18246/project_img_1770181419618___1___1_fac89a23.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "miniCoverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/9b5defb4a1f94341ae1ad37275e18246/project_img_1770181419618___1___1_fac89a23.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "incomeMin": 2000,
+        "incomeMax": 8400,
+        "highlightText": "制作成本低｜变现路径多｜先发优势",
+        "dailyMinutes": 360,
+        "estimatedCost": 200,
+        "platformMenus": [
+          {
+            "id": 387768,
+            "name": "抖音"
+          },
+          {
+            "id": 387779,
+            "name": "视频号"
+          },
+          {
+            "id": 387781,
+            "name": "小红书"
+          },
+          {
+            "id": 387806,
+            "name": "YouTube"
+          },
+          {
+            "id": 2488550,
+            "name": "AI"
+          }
+        ],
+        "monetizeMenus": [
+          {
+            "id": 7613562,
+            "name": "接广商单"
+          },
+          {
+            "id": 7613566,
+            "name": "定制服务"
+          }
+        ],
+        "crowdMenus": [
+          {
+            "id": 9152957,
+            "name": "内容制作"
+          }
+        ],
+        "likeCount": 27,
+        "gmtPublish": 1770782408,
+        "summary": "用AI批量生成广告素材卖给品牌方，传统拍摄几千一条现在成本趋近于零，赚信息差和执行力",
+        "caseCount": 6,
+        "resourceCount": 6,
+        "isSuper": false,
+        "isInActivity": false,
+        "superTopicId": null
+      },
+      {
+        "id": 142,
+        "name": "电子书智能体",
+        "coverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-03-20/7fda2645f8114f7bb21fcbc8b0374abf/154.jpg.optimized.png?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "miniCoverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-03-20/7fda2645f8114f7bb21fcbc8b0374abf/154.jpg.optimized.png?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "incomeMin": 3000,
+        "incomeMax": 50000,
+        "highlightText": "知识产品升级｜AI 差异化｜高定价",
+        "dailyMinutes": 360,
+        "estimatedCost": 200,
+        "platformMenus": [
+          {
+            "id": 387781,
+            "name": "小红书"
+          },
+          {
+            "id": 2488550,
+            "name": "AI"
+          }
+        ],
+        "monetizeMenus": [
+          {
+            "id": 7613564,
+            "name": "虚拟产品销售"
+          }
+        ],
+        "crowdMenus": [
+          {
+            "id": 9152960,
+            "name": "编程技术"
+          }
+        ],
+        "likeCount": 22,
+        "gmtPublish": 1774336276,
+        "summary": "把电子书升级为可交互问答的AI智能体，从看书变成问书，定价直接翻几倍",
+        "caseCount": 8,
+        "resourceCount": 6,
+        "isSuper": false,
+        "isInActivity": false,
+        "superTopicId": null
+      },
+      {
+        "id": 93,
+        "name": "微信小游戏",
+        "coverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/40de286eb37a4ccdb4eafd943eefe897/project_img_1770371917333_1770285205082-gu0kv3mot8_160c4a4e.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "miniCoverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/40de286eb37a4ccdb4eafd943eefe897/project_img_1770371917333_1770285205082-gu0kv3mot8_160c4a4e.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "incomeMin": 400,
+        "incomeMax": 1800,
+        "highlightText": "视频号红利｜游戏发行｜CPS分成",
+        "dailyMinutes": 90,
+        "estimatedCost": 0,
+        "platformMenus": [
+          {
+            "id": 387779,
+            "name": "视频号"
+          }
+        ],
+        "monetizeMenus": [
+          {
+            "id": 7613560,
+            "name": "创作者分成"
+          },
+          {
+            "id": 7613561,
+            "name": "拉新推广"
+          }
+        ],
+        "crowdMenus": [
+          {
+            "id": 9479762,
+            "name": "无需技能"
+          }
+        ],
+        "likeCount": 22,
+        "gmtPublish": 1770782409,
+        "summary": "在视频号发短视频或直播挂载小游戏链接，用户点进去玩就有CPS分成，官方结算稳定",
+        "caseCount": 7,
+        "resourceCount": 6,
+        "isSuper": false,
+        "isInActivity": false,
+        "superTopicId": null
+      },
+      {
+        "id": 39,
+        "name": "小红书知识库",
+        "coverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/0ccd877945b84f24baba2e8fefd46144/project_img_1770181535838___5___2_36348ff3.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "miniCoverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/0ccd877945b84f24baba2e8fefd46144/project_img_1770181535838___5___2_36348ff3.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "incomeMin": 4300,
+        "incomeMax": 9000,
+        "highlightText": "买的是少走弯路｜AI 降低成本｜长期复利",
+        "dailyMinutes": 180,
+        "estimatedCost": 0,
+        "platformMenus": [
+          {
+            "id": 387781,
+            "name": "小红书"
+          }
+        ],
+        "monetizeMenus": [
+          {
+            "id": 7613564,
+            "name": "虚拟产品销售"
+          }
+        ],
+        "crowdMenus": [
+          {
+            "id": 9152957,
+            "name": "内容制作"
+          }
+        ],
+        "likeCount": 20,
+        "gmtPublish": 1770004808,
+        "summary": "把行业经验整理成付费知识库卖给同行，用户买的是少走弯路，AI降低内容生产成本",
+        "caseCount": 10,
+        "resourceCount": 7,
+        "isSuper": false,
+        "isInActivity": false,
+        "superTopicId": null
+      },
+      {
+        "id": 2,
+        "name": "抖音 AI 视频带货",
+        "coverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/53197199b3d349dbb8e4b08252292ebe/image_002_3515599f.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "miniCoverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/53197199b3d349dbb8e4b08252292ebe/image_002_3515599f.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "incomeMin": 1200,
+        "incomeMax": 12700,
+        "highlightText": "低成本测款｜概率博弈｜内容工厂",
+        "dailyMinutes": 90,
+        "estimatedCost": 200,
+        "platformMenus": [
+          {
+            "id": 387768,
+            "name": "抖音"
+          },
+          {
+            "id": 2488550,
+            "name": "AI"
+          }
+        ],
+        "monetizeMenus": [
+          {
+            "id": 7613565,
+            "name": "电商带货"
+          }
+        ],
+        "crowdMenus": [
+          {
+            "id": 9479761,
+            "name": "电商销售"
+          }
+        ],
+        "likeCount": 19,
+        "gmtPublish": 1770782404,
+        "summary": "用AI把衣服穿到虚拟模特身上生成带货视频发抖音，不用买样衣不用请模特，批量测款",
+        "caseCount": 12,
+        "resourceCount": 5,
+        "isSuper": false,
+        "isInActivity": false,
+        "superTopicId": null
+      },
+      {
+        "id": 14,
+        "name": "小绿书（文字切片）",
+        "coverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/bbe58473e26b4c2f8ec6f62662a015fa/image_014_716a44b9.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "miniCoverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/bbe58473e26b4c2f8ec6f62662a015fa/image_014_716a44b9.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "incomeMin": 3500,
+        "incomeMax": 12400,
+        "highlightText": "公域截流｜高频试错｜私域闭环",
+        "dailyMinutes": 90,
+        "estimatedCost": 0,
+        "platformMenus": [
+          {
+            "id": 384090,
+            "name": "公众号"
+          }
+        ],
+        "monetizeMenus": [
+          {
+            "id": 7613563,
+            "name": "引流变现"
+          }
+        ],
+        "crowdMenus": [
+          {
+            "id": 9152957,
+            "name": "内容制作"
+          }
+        ],
+        "likeCount": 19,
+        "gmtPublish": 1770782403,
+        "summary": "在微信发小绿书短图文通过看一看和搜一搜获取公域流量，高频试错快速涨粉引流私域变现",
+        "caseCount": 11,
+        "resourceCount": 1,
+        "isSuper": false,
+        "isInActivity": false,
+        "superTopicId": null
+      },
+      {
+        "id": 66,
+        "name": "小红书小程序",
+        "coverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/a46d7b14a10d457ca8ef9de1b50ab3f0/project_img_1770182391218___33___2_938550b0.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "miniCoverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/a46d7b14a10d457ca8ef9de1b50ab3f0/project_img_1770182391218___33___2_938550b0.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "incomeMin": 1600,
+        "incomeMax": 5200,
+        "highlightText": "待开发生态｜开发成本低｜闭环变现",
+        "dailyMinutes": 360,
+        "estimatedCost": 200,
+        "platformMenus": [
+          {
+            "id": 387781,
+            "name": "小红书"
+          }
+        ],
+        "monetizeMenus": [
+          {
+            "id": 7613564,
+            "name": "虚拟产品销售"
+          },
+          {
+            "id": 7613566,
+            "name": "定制服务"
+          }
+        ],
+        "crowdMenus": [
+          {
+            "id": 9152960,
+            "name": "编程技术"
+          }
+        ],
+        "likeCount": 19,
+        "gmtPublish": 1770696008,
+        "summary": "用AI开发壁纸下载、MBTI测试等小红书小程序，生态刚起步竞争少，自动收钱零边际成本",
+        "caseCount": 6,
+        "resourceCount": 5,
+        "isSuper": true,
+        "isInActivity": false,
+        "superTopicId": 22811222448122481
+      },
+      {
+        "id": 42,
+        "name": "视频号 AI 图书带货",
+        "coverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/9cf10ecc9c684b77ac648dfba0e02a01/project_img_1770181611572___8____35bb90d2.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "miniCoverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/9cf10ecc9c684b77ac648dfba0e02a01/project_img_1770181611572___8____35bb90d2.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "incomeMin": 2100,
+        "incomeMax": 9200,
+        "highlightText": "平台给流量｜AI 降低门槛｜低风险高复购",
+        "dailyMinutes": 180,
+        "estimatedCost": 200,
+        "platformMenus": [
+          {
+            "id": 387779,
+            "name": "视频号"
+          },
+          {
+            "id": 2488550,
+            "name": "AI"
+          }
+        ],
+        "monetizeMenus": [
+          {
+            "id": 7613565,
+            "name": "电商带货"
+          }
+        ],
+        "crowdMenus": [
+          {
+            "id": 9479761,
+            "name": "电商销售"
+          }
+        ],
+        "likeCount": 19,
+        "gmtPublish": 1770523204,
+        "summary": "在视频号用AI制作图书推荐短视频挂链接带货，用户画像偏成熟爱学习，图书品类天然适合",
+        "caseCount": 3,
+        "resourceCount": 3,
+        "isSuper": false,
+        "isInActivity": true,
+        "superTopicId": null
+      },
+      {
+        "id": 99,
+        "name": "海外优质内容虚拟产品化",
+        "coverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/f378534b10c847c48846e0f5ab811f41/project_img_1770195694156_1769758835011-bq252g1u1zs_86cd64da.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "miniCoverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/f378534b10c847c48846e0f5ab811f41/project_img_1770195694156_1769758835011-bq252g1u1zs_86cd64da.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "incomeMin": 9100,
+        "incomeMax": 33500,
+        "highlightText": "信息差套利｜AI 提效｜零边际成本",
+        "dailyMinutes": 90,
+        "estimatedCost": 0,
+        "platformMenus": [
+          {
+            "id": 387781,
+            "name": "小红书"
+          }
+        ],
+        "monetizeMenus": [
+          {
+            "id": 7613564,
+            "name": "虚拟产品销售"
+          }
+        ],
+        "crowdMenus": [
+          {
+            "id": 9152957,
+            "name": "内容制作"
+          }
+        ],
+        "likeCount": 19,
+        "gmtPublish": 1770004801,
+        "summary": "把海外YouTube教程、Reddit干货等优质内容用AI翻译整理后在小红书卖虚拟产品，赚信息差",
+        "caseCount": 16,
+        "resourceCount": 4,
+        "isSuper": false,
+        "isInActivity": false,
+        "superTopicId": null
+      },
+      {
+        "id": 68,
+        "name": "AI 短文小说",
+        "coverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/d2a0be4fdda8417eaffc3d034d3c03ac/project_img_1770182515149___36___3_bf1a50de.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "miniCoverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/d2a0be4fdda8417eaffc3d034d3c03ac/project_img_1770182515149___36___3_bf1a50de.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "incomeMin": 1600,
+        "incomeMax": 6800,
+        "highlightText": "新手友好｜正反馈快｜单价低复购高",
+        "dailyMinutes": 90,
+        "estimatedCost": 0,
+        "platformMenus": [
+          {
+            "id": 384090,
+            "name": "公众号"
+          },
+          {
+            "id": 387781,
+            "name": "小红书"
+          },
+          {
+            "id": 2488550,
+            "name": "AI"
+          }
+        ],
+        "monetizeMenus": [
+          {
+            "id": 7613564,
+            "name": "虚拟产品销售"
+          }
+        ],
+        "crowdMenus": [
+          {
+            "id": 9152957,
+            "name": "内容制作"
+          }
+        ],
+        "likeCount": 16,
+        "gmtPublish": 1770523202,
+        "summary": "用AI批量生成3000字短篇甜宠文在小红书卖几毛到几块钱，自动发货走量，冲动消费复购高",
+        "caseCount": 10,
+        "resourceCount": 6,
+        "isSuper": false,
+        "isInActivity": false,
+        "superTopicId": null
+      },
+      {
+        "id": 138,
+        "name": "播客切片",
+        "coverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-03-20/6656d9dbd6614271964598bbef9d639c/155.jpg.optimized.png?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "miniCoverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-03-20/6656d9dbd6614271964598bbef9d639c/155.jpg.optimized.png?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "incomeMin": 2000,
+        "incomeMax": 30000,
+        "highlightText": "内容二创｜多平台分发｜零成本",
+        "dailyMinutes": 180,
+        "estimatedCost": 0,
+        "platformMenus": [
+          {
+            "id": 387768,
+            "name": "抖音"
+          }
+        ],
+        "monetizeMenus": [
+          {
+            "id": 7613560,
+            "name": "创作者分成"
+          }
+        ],
+        "crowdMenus": [
+          {
+            "id": 9152958,
+            "name": "视频剪辑"
+          }
+        ],
+        "likeCount": 15,
+        "gmtPublish": 1774237714,
+        "summary": "把播客中的金句和干货片段切成短视频多平台分发，内容不用原创，靠挑选能力赚平台分成",
+        "caseCount": 10,
+        "resourceCount": 6,
+        "isSuper": false,
+        "isInActivity": false,
+        "superTopicId": null
+      },
+      {
+        "id": 145,
+        "name": "游戏化阅读",
+        "coverImage": "https://search01.shengcaiyoushu.com/upload/form/2026-03-25/ad303008910abb779daeda9ff7ec0f61.png?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "miniCoverImage": "https://search01.shengcaiyoushu.com/upload/form/2026-03-25/ad303008910abb779daeda9ff7ec0f61.png?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "incomeMin": 2000,
+        "incomeMax": 35000,
+        "highlightText": "刚需痛点｜小程序变现｜供给稀缺",
+        "dailyMinutes": 180,
+        "estimatedCost": 200,
+        "platformMenus": [
+          {
+            "id": 387781,
+            "name": "小红书"
+          },
+          {
+            "id": 2488550,
+            "name": "AI"
+          }
+        ],
+        "monetizeMenus": [
+          {
+            "id": 7613567,
+            "name": "订阅制SaaS"
+          }
+        ],
+        "crowdMenus": [
+          {
+            "id": 9152960,
+            "name": "编程技术"
+          }
+        ],
+        "likeCount": 14,
+        "gmtPublish": 1774424702,
+        "summary": "把阅读做成闯关打卡和答题积分的小程序，卖给想读书但读不进去的用户，用游戏化驱动付费",
+        "caseCount": 11,
+        "resourceCount": 7,
+        "isSuper": false,
+        "isInActivity": false,
+        "superTopicId": null
+      },
+      {
+        "id": 60,
+        "name": "AI ToB 培训师",
+        "coverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/15c43ae4fd1e4d92b092f352f490efc6/project_img_1770182258039___27___1_7525df4f.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "miniCoverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/15c43ae4fd1e4d92b092f352f490efc6/project_img_1770182258039___27___1_7525df4f.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "incomeMin": 5000,
+        "incomeMax": 17100,
+        "highlightText": "信息差仍在｜老板愿付费｜市场在爆发",
+        "dailyMinutes": 480,
+        "estimatedCost": 10000,
+        "platformMenus": [
+          {
+            "id": 387768,
+            "name": "抖音"
+          },
+          {
+            "id": 387781,
+            "name": "小红书"
+          },
+          {
+            "id": 2488550,
+            "name": "AI"
+          }
+        ],
+        "monetizeMenus": [
+          {
+            "id": 7613566,
+            "name": "定制服务"
+          }
+        ],
+        "crowdMenus": [
+          {
+            "id": 9152959,
+            "name": "服务技能"
+          }
+        ],
+        "likeCount": 12,
+        "gmtPublish": 1770609601,
+        "summary": "给企业做AI工具落地培训，银行工厂高校都在抢着开课，能交付的人严重不足，日薪可过万",
+        "caseCount": 6,
+        "resourceCount": 9,
+        "isSuper": true,
+        "isInActivity": false,
+        "superTopicId": 55188412144882244
+      },
+      {
+        "id": 151,
+        "name": "中老年知识付费",
+        "coverImage": "https://search01.shengcaiyoushu.com/upload/form/2026-03-26/e178cfa9cc40883aeae8933f895fbf42.png?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "miniCoverImage": "https://search01.shengcaiyoushu.com/upload/form/2026-03-26/e178cfa9cc40883aeae8933f895fbf42.png?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "incomeMin": 3000,
+        "incomeMax": 20000,
+        "highlightText": "确定性市场｜高复购率｜蓝海赛道",
+        "dailyMinutes": 180,
+        "estimatedCost": 200,
+        "platformMenus": [
+          {
+            "id": 387779,
+            "name": "视频号"
+          }
+        ],
+        "monetizeMenus": [
+          {
+            "id": 7613564,
+            "name": "虚拟产品销售"
+          }
+        ],
+        "crowdMenus": [
+          {
+            "id": 9152957,
+            "name": "内容制作"
+          }
+        ],
+        "likeCount": 11,
+        "gmtPublish": 1774517252,
+        "summary": "面向中老年群体做养生健康类知识付费，小课引流加训练营转化，蓝海赛道复购率高",
+        "caseCount": 11,
+        "resourceCount": 7,
+        "isSuper": false,
+        "isInActivity": false,
+        "superTopicId": null
+      },
+      {
+        "id": 149,
+        "name": "gamsgo 信息差",
+        "coverImage": "https://search01.shengcaiyoushu.com/upload/form/2026-03-25/c706bd2bb2b56988f4ba40e4cb12bd54.png?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "miniCoverImage": "https://search01.shengcaiyoushu.com/upload/form/2026-03-25/c706bd2bb2b56988f4ba40e4cb12bd54.png?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "incomeMin": 2000,
+        "incomeMax": 17500,
+        "highlightText": "订阅复利｜信息差套利｜边际成本零",
+        "dailyMinutes": 30,
+        "estimatedCost": 1500,
+        "platformMenus": [],
+        "monetizeMenus": [
+          {
+            "id": 7613565,
+            "name": "电商带货"
+          }
+        ],
+        "crowdMenus": [
+          {
+            "id": 9479762,
+            "name": "无需技能"
+          }
+        ],
+        "likeCount": 11,
+        "gmtPublish": 1774439458,
+        "summary": "低价拿到ChatGPT、Netflix等正版订阅再转售赚差价，用户按月续费形成持续被动收入",
+        "caseCount": 7,
+        "resourceCount": 6,
+        "isSuper": false,
+        "isInActivity": false,
+        "superTopicId": null
+      },
+      {
+        "id": 103,
+        "name": "K12 家长提分资料",
+        "coverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-03-05/70c624e32ab44b17ab741a6710a91a1d/104_c0_i0_cropped.png.optimized.png?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "miniCoverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-03-05/70c624e32ab44b17ab741a6710a91a1d/104_c0_i0_cropped.png.optimized.png?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "incomeMin": 2000,
+        "incomeMax": 50000,
+        "highlightText": "刚需高频｜复购率高｜客单价稳",
+        "dailyMinutes": 90,
+        "estimatedCost": 0,
+        "platformMenus": [
+          {
+            "id": 387781,
+            "name": "小红书"
+          }
+        ],
+        "monetizeMenus": [
+          {
+            "id": 7613564,
+            "name": "虚拟产品销售"
+          }
+        ],
+        "crowdMenus": [
+          {
+            "id": 9479762,
+            "name": "无需技能"
+          }
+        ],
+        "likeCount": 11,
+        "gmtPublish": 1772796941,
+        "summary": "在小红书卖专注力训练表和提分资料给焦虑家长，几十块的鸡娃平替，刚需高频持续复购",
+        "caseCount": 7,
+        "resourceCount": 8,
+        "isSuper": false,
+        "isInActivity": false,
+        "superTopicId": null
+      },
+      {
+        "id": 105,
+        "name": "K12 教师课件包",
+        "coverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-03-05/b23e942c9919411a8dad84ce242f02ae/106_2_cropped.png.optimized.png?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "miniCoverImage": "https://search01.shengcaiyoushu.com/public/upload/2026-03-05/b23e942c9919411a8dad84ce242f02ae/106_2_cropped.png.optimized.png?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp",
+        "incomeMin": 3000,
+        "incomeMax": 80000,
+        "highlightText": "专业壁垒｜长尾收益｜规模化强",
+        "dailyMinutes": 90,
+        "estimatedCost": 200,
+        "platformMenus": [
+          {
+            "id": 387781,
+            "name": "小红书"
+          }
+        ],
+        "monetizeMenus": [
+          {
+            "id": 7613564,
+            "name": "虚拟产品销售"
+          }
+        ],
+        "crowdMenus": [
+          {
+            "id": 9479762,
+            "name": "无需技能"
+          }
+        ],
+        "likeCount": 11,
+        "gmtPublish": 1772796940,
+        "summary": "卖带动画和教案的中小学课件包给忙碌的老师，刚需高频复购，几十块单价也能月入过万",
+        "caseCount": 8,
+        "resourceCount": 8,
+        "isSuper": false,
+        "isInActivity": false,
+        "superTopicId": null
+      }
+    ],
+    "total": 180
+  }
+}

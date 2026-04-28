@@ -1,0 +1,449 @@
+{
+  "success": true,
+  "status": 0,
+  "message": null,
+  "data": {
+    "id": 11,
+    "name": "微信小程序",
+    "incomeMin": 1500,
+    "incomeMax": 17200,
+    "highlightText": "刚需痛点｜产品化交付｜长期复利",
+    "dailyMinutes": 360,
+    "estimatedCost": 200,
+    "images": [
+      "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/1d1ae7ba7b7346df9512a8329df413aa/image_011_9a7253c7.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp"
+    ],
+    "miniImages": [
+      "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/1d1ae7ba7b7346df9512a8329df413aa/image_011_9a7253c7.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp"
+    ],
+    "description": "<p>现在还有很多圈友，觉得开发小程序是程序员的事。 但其实在AI时代下，做一个小程序已经没有技术壁垒了，最关键的是，你如何找到那个——<strong>“解决痛点的最小产品化”</strong>。</p><p>你不需要懂代码，只需要发现一个<strong>自己或身边人“反复遇到、却没好工具解决”的痛点</strong>，如英语口语难坚持、猫咪乱尿怎么治、科研论文怎么写。</p><p>利用AI编程工具，把解决这个痛点的流程<strong>封装成一个小程序</strong>。 然后在小红书发笔记验证需求，一旦有人付费，你就跑通了一个<strong>“自动赚钱机器”</strong>。</p>",
+    "content": [
+      {
+        "key": "worth_reason",
+        "order": null,
+        "value": [
+          {
+            "key": "",
+            "order": 1,
+            "value": "<p><strong>AI 降低开发门槛</strong>： 以前开发小程序要几万块、几个月。现在用AI写代码，普通人也能在几天内搓出一个“能用”的小程序。</p>"
+          },
+          {
+            "key": "",
+            "order": 2,
+            "value": "<p><strong>需求极度细分</strong>： 大厂看不上的小需求（如“拼豆图纸生成”、“国博讲解音频”），对个人来说就是金矿。只要解决了痛点，用户非常愿意付费。</p>"
+          },
+          {
+            "key": "",
+            "order": 3,
+            "value": "<p><strong>长期复利资产</strong>： 小程序一旦上线，维护成本极低。它像一个24小时工作的员工，持续为你提供服务、收取费用。</p>"
+          }
+        ]
+      },
+      {
+        "key": "revenue_model",
+        "order": null,
+        "value": [
+          {
+            "key": "",
+            "order": 1,
+            "value": "<p><strong> 付费会员/订阅</strong>： 核心模式。用户免费试用几次，觉得好用就付费解锁无限次（如“朗读小程序”6000+付费会员）。</p>"
+          },
+          {
+            "key": "",
+            "order": 2,
+            "value": "<p><strong> 虚拟资源变现</strong>： 把资料包、音频、视频课封装进小程序，用户付费后自动解锁，无需人工发货（如“国博讲解”卖了1万单）。</p>"
+          },
+          {
+            "key": "",
+            "order": 3,
+            "value": "<p><strong>流量主广告</strong>： 小程序流量起来后，开通流量主，用户看广告解锁功能，你赚广告费。</p>"
+          }
+        ]
+      },
+      {
+        "key": "income_estimate",
+        "order": null,
+        "value": [
+          {
+            "key": "启动成本",
+            "order": 1,
+            "value": "<p><strong>几百元</strong>（服务器+域名+认证费）。时间成本主要是前期打磨产品。</p>"
+          },
+          {
+            "key": "预期收益",
+            "order": 2,
+            "value": "<p>小众工具<strong>月入小几千</strong>是常态；如果切中刚需（如英语、考研），做得好的单月流水可以过万。</p>"
+          },
+          {
+            "key": "回本周期",
+            "order": 3,
+            "value": "<p><strong>1-3个月</strong>。只要在小红书验证了需求，回本非常快。</p>"
+          }
+        ]
+      },
+      {
+        "key": "action_guide",
+        "order": null,
+        "value": [
+          {
+            "key": "",
+            "order": 1,
+            "value": "<p><strong>痛点挖掘</strong>： 别想大平台。问自己：“我最近有什么痛点是想花钱解决的？”。</p>"
+          },
+          {
+            "key": "",
+            "order": 2,
+            "value": "<p><strong> AI开发MVP</strong>： 别追求完美。用Cursor/Claude写代码，只做最核心的那个功能（如点击播放音频、“输入文字生成图纸”）。先跑通，再优化。</p>"
+          },
+          {
+            "key": "",
+            "order": 3,
+            "value": "<p><strong>小红书验证</strong>： 别闷头做。小程序上线前，先在小红书发笔记：“我做了一个xx工具，解决xx问题，有人想试用吗？”评论区就是你的第一批种子用户。</p>"
+          },
+          {
+            "key": "",
+            "order": 4,
+            "value": "<p><strong>闭环变现（收网）</strong>： 在小红书挂商品链接（卖会员兑换码），或者引导用户去微信搜索小程序直接付费。</p>"
+          }
+        ]
+      }
+    ],
+    "cases": [
+      {
+        "type": "external",
+        "order": 7,
+        "author": "郭东超",
+        "title": "零基础 AI 产品实战：从自己需求出发，3 个月变现 20 w+",
+        "linkUrl": "https://shengcaiyoushu01.feishu.cn/docx/ITbDdBZ27oLDZIxiUuQclgo1nQf?_=1769421459",
+        "gmtPublish": 1769421560,
+        "images": [
+          "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/e4cfef4b7ce843b5af74dae1b1daa9bd/project_img_1770221325813_1770214823094-emse8g7zpdo_1de87b40.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp"
+        ],
+        "miniImages": [
+          "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/e4cfef4b7ce843b5af74dae1b1daa9bd/project_img_1770221325813_1770214823094-emse8g7zpdo_1de87b40.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp"
+        ],
+        "tag": "小红书",
+        "entityId": null,
+        "entityType": null,
+        "xqGroupNumber": null
+      },
+      {
+        "type": "external",
+        "order": 8,
+        "author": "",
+        "title": "博物馆研学小程序：小红书精准引流博物馆讲解小程序，单笔29.9元已售近万份",
+        "linkUrl": "https://xhslink.com/m/6j2xbgsEaO4",
+        "gmtPublish": 1769077440,
+        "images": [
+          "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/149f99ca15624baf8b77cc7c241a7ea3/project_img_1770029634218_1769523828757-sjkzax7y1z_2c693f87.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp"
+        ],
+        "miniImages": [
+          "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/149f99ca15624baf8b77cc7c241a7ea3/project_img_1770029634218_1769523828757-sjkzax7y1z_2c693f87.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp"
+        ],
+        "tag": "小红书",
+        "entityId": null,
+        "entityType": null,
+        "xqGroupNumber": null
+      },
+      {
+        "type": "external",
+        "order": 9,
+        "author": "",
+        "title": "AI 拼豆图纸自助下单：小红书定制笔记引流，5元AI转图纸小程序月售5500单",
+        "linkUrl": "https://xhslink.com/m/5LYOmRGQLKD",
+        "gmtPublish": 1769077440,
+        "images": [
+          "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/cb131968eb4e48d89c3621e246981b7c/project_img_1770029638502_1769523840430-y3ca1dr3ju9_1ee6f579.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp"
+        ],
+        "miniImages": [
+          "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/cb131968eb4e48d89c3621e246981b7c/project_img_1770029638502_1769523840430-y3ca1dr3ju9_1ee6f579.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp"
+        ],
+        "tag": "小红书",
+        "entityId": null,
+        "entityType": null,
+        "xqGroupNumber": null
+      },
+      {
+        "type": "external",
+        "order": 10,
+        "author": "",
+        "title": "考编刷题小程序变现：小红书精准截流考编人群，7.8元刷题库小程序月售数百单",
+        "linkUrl": "https://xhslink.com/m/44UUdPCg4Nk",
+        "gmtPublish": 1769077440,
+        "images": [
+          "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/a9eb1ccc973c4e6f8d249fbeb0c9200d/project_img_1770029641405_1769523853041-8ji8p06eu6_108568b3.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp"
+        ],
+        "miniImages": [
+          "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/a9eb1ccc973c4e6f8d249fbeb0c9200d/project_img_1770029641405_1769523853041-8ji8p06eu6_108568b3.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp"
+        ],
+        "tag": "小红书",
+        "entityId": null,
+        "entityType": null,
+        "xqGroupNumber": null
+      },
+      {
+        "type": "external",
+        "order": 11,
+        "author": "",
+        "title": "英语启蒙 1.3万粉：专发佩奇精读笔记，配套小程序自动发货，卖30元虚拟资料变现",
+        "linkUrl": "https://xhslink.com/m/6uSvEcCRNWC",
+        "gmtPublish": 1769077440,
+        "images": [
+          "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/ab0465a9c74242fa97da4a8b7408e8af/project_img_1770029645190_1769523867677-0yi0dws2h08p_6a8b331c.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp"
+        ],
+        "miniImages": [
+          "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/ab0465a9c74242fa97da4a8b7408e8af/project_img_1770029645190_1769523867677-0yi0dws2h08p_6a8b331c.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp"
+        ],
+        "tag": "小红书",
+        "entityId": null,
+        "entityType": null,
+        "xqGroupNumber": null
+      },
+      {
+        "type": "external",
+        "order": 12,
+        "author": "",
+        "title": "财会备考 售2289单：小红书发真题大纲，1元资料做钩子，卖99元刷题小程序变现",
+        "linkUrl": "https://xhslink.com/m/AeP3y3r2TU5",
+        "gmtPublish": 1769077440,
+        "images": [
+          "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/f632f04ef86a43c695f7dfb37318bb97/project_img_1770029648638_1769523877756-7ssvgsoq3i3_00d47624.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp"
+        ],
+        "miniImages": [
+          "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/f632f04ef86a43c695f7dfb37318bb97/project_img_1770029648638_1769523877756-7ssvgsoq3i3_00d47624.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp"
+        ],
+        "tag": "小红书",
+        "entityId": null,
+        "entityType": null,
+        "xqGroupNumber": null
+      },
+      {
+        "type": "internal",
+        "order": 2,
+        "author": "爪爪",
+        "title": "拼豆 AI 转绘小程序：垂直人群冷启动，1000 粉丝卖出 6298 单，4 个月完成变现闭环",
+        "linkUrl": null,
+        "gmtPublish": 1769395398,
+        "images": [
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/14588442184212812/FjQB5VRG7Kg6PyLRp9yIRfePBxRO?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=jV0zOwjQl87Cg%2FSYE3ak5x38tcE%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_1280%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp",
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/14588442184212812/Fg2EAdiDZsOEFfoVuu77HTK8rraZ?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=tNDHgbRs5779RT6FmABs86AJ144%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_1280%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp",
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/14588442184212812/FuhGgSQnOFUl-8eZtNtoy1S59BVy?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=34LJ0HVVOnnVnq99uT3iJkMceTQ%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_1280%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp"
+        ],
+        "miniImages": [
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/14588442184212812/FjQB5VRG7Kg6PyLRp9yIRfePBxRO?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=WzgZGlOqIjFwLVpCBiVnRb9IPs0%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_600%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp",
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/14588442184212812/Fg2EAdiDZsOEFfoVuu77HTK8rraZ?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=4J6WV16K1r3avKfD597Kwj%2BAGcA%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_600%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp",
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/14588442184212812/FuhGgSQnOFUl-8eZtNtoy1S59BVy?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=%2FvHKqZ8pvumQRIMyYXpyapLMY0I%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_600%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp"
+        ],
+        "tag": "风向标",
+        "entityId": "14588442184212812",
+        "entityType": "xq_topic",
+        "xqGroupNumber": 154376
+      },
+      {
+        "type": "internal",
+        "order": 4,
+        "author": null,
+        "title": "景点语音包 双端变现：AI 整理全国景点讲解做定点播放，小红书卖虚拟资料+小程序流量主双收益",
+        "linkUrl": null,
+        "gmtPublish": 1769138384,
+        "images": [
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/14588442228855122/Fli1qnckpZNe6I8e9y0VaMyYgTDi?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=jk9tsb2c2Emr0ChyXZH%2FEYkP%2BEI%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_1280%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp",
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/14588442228855122/FuMv02Wq0TyFB7jrFOmeW90RSO-b?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=1cJTEttRpIMTjnkMoOvl24Ncw7o%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_1280%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp",
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/14588442228855122/FnbXOZjX6p5aLgP7Kp0FNmrhJb3M?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=68HplO8ID1X9cj3j0cYS833SVgs%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_1280%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp"
+        ],
+        "miniImages": [
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/14588442228855122/Fli1qnckpZNe6I8e9y0VaMyYgTDi?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=7hEBrQtRE%2BXPjtpPeYXeckAwSmA%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_600%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp",
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/14588442228855122/FuMv02Wq0TyFB7jrFOmeW90RSO-b?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=g2y9NAJM8LCGAwGvrww95RFvfpU%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_600%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp",
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/14588442228855122/FnbXOZjX6p5aLgP7Kp0FNmrhJb3M?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=7n65dZa47oULpDEQX%2F%2Fh34OplJw%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_600%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp"
+        ],
+        "tag": "中标",
+        "entityId": "14588442228855122",
+        "entityType": "xq_topic",
+        "xqGroupNumber": null
+      },
+      {
+        "type": "internal",
+        "order": 3,
+        "author": "福脑斯",
+        "title": "马钞价格查询小程序：开发纸币估价工具对接爱藏 App，承接直播课咨询流量实现变现",
+        "linkUrl": null,
+        "gmtPublish": 1768910524,
+        "images": [
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/55188512458545144/Fk24mLm8gtLds8P923u8d34bHxYe?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=PKQ4ZP4OZTgMs1QvvagvD2RBBd4%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_1280%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp",
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/55188512458545144/FkC3g31B5r0M7-o80qczR9xFviVe?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=U4Yoedg9CQ3p0tJS3frjzKHrdFY%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_1280%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp",
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/55188512458545144/Fne8-SOl7tXIREhK6AnJhODNDKa3?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=lWdLOspmXYNkotA7%2BHWWrgQLgOg%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_1280%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp",
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/55188512458545144/FnX7VNqALeVp8iQRVD4VhrTiHAtt?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=tZbxE162NJELGjvMsVtjc39X324%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_1280%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp",
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/55188512458545144/Fk8oCnFMrwmVr0XPWr5FBrYy-CEU?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=MeHfTiix5IYI4kh6mywccOcQ7tQ%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_1280%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp",
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/55188512458545144/FqvB8DsK9r8A0tVZrfiTmpDKUP9Q?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=tswsqRUSDsPRyZbKv5ogH0zBXfk%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_1280%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp",
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/55188512458545144/Fg51Kahykp6sTtQ0soJTRVna7v_x?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=F4e%2FkFS73kHxrONISqIJAnfbLyc%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_1280%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp"
+        ],
+        "miniImages": [
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/55188512458545144/Fk24mLm8gtLds8P923u8d34bHxYe?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=OuRfOtNVXgr2SrKXWtVFtD4UsNs%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_600%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp",
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/55188512458545144/FkC3g31B5r0M7-o80qczR9xFviVe?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=03Aqoe4jBOr3uYxxMNNtTvFB5Jg%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_600%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp",
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/55188512458545144/Fne8-SOl7tXIREhK6AnJhODNDKa3?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=eXkl6Ff4E9Nwh2dakFKOyHwLwUE%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_600%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp",
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/55188512458545144/FnX7VNqALeVp8iQRVD4VhrTiHAtt?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=NzfnMyEnmZPjGS4fOuNzF3SGFt4%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_600%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp",
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/55188512458545144/Fk8oCnFMrwmVr0XPWr5FBrYy-CEU?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=dYA9ti2MzxQvDQkUK27ackQFUPw%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_600%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp",
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/55188512458545144/FqvB8DsK9r8A0tVZrfiTmpDKUP9Q?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=SVcxi8OmljBpu6API21%2FMrMfFdw%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_600%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp",
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/55188512458545144/Fg51Kahykp6sTtQ0soJTRVna7v_x?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=0vJHQTPXVy%2BJ8%2F26n64mnmqtJr0%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_600%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp"
+        ],
+        "tag": "中标",
+        "entityId": "55188512458545144",
+        "entityType": "xq_topic",
+        "xqGroupNumber": 115740
+      },
+      {
+        "type": "internal",
+        "order": 5,
+        "author": "Leeka",
+        "title": "拼豆图纸小程序： 开发者自制 AI 照片转拼豆图纸小程序，通过开屏广告与小红书售卖兑换码实现双重变现",
+        "linkUrl": null,
+        "gmtPublish": 1768890368,
+        "images": [
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/55188512411454544/FnVoXhM378YCOdBDzY8XB6x1HXZN?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=As7TPTn%2FESCm3s%2F7qcProIJ%2B9VE%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_1280%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp",
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/55188512411454544/FsLmLpQVgxiM3NOZDm3Mrq0o5Ln_?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=SQ4%2B3wtTH0g99noO5fVVPqvE74s%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_1280%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp",
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/55188512411454544/FuAL65Q7b-ooRlbu-ofO7IJdkIn2?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=XOl4XF8G3pcnFzuXcf%2BbEIcN4B4%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_1280%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp"
+        ],
+        "miniImages": [
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/55188512411454544/FnVoXhM378YCOdBDzY8XB6x1HXZN?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=1Kgq6VF9Ro8QzOUccbzVnsZiMJg%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_600%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp",
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/55188512411454544/FsLmLpQVgxiM3NOZDm3Mrq0o5Ln_?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=aCKAmnSfbiYlnliPz55hmkuJMGs%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_600%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp",
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/55188512411454544/FuAL65Q7b-ooRlbu-ofO7IJdkIn2?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=%2Fi%2F4iAezHF5lS75ARm%2FByw8sKno%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_600%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp"
+        ],
+        "tag": "中标",
+        "entityId": "55188512411454544",
+        "entityType": "xq_topic",
+        "xqGroupNumber": 37363
+      },
+      {
+        "type": "internal",
+        "order": 6,
+        "author": "相见不如怀念",
+        "title": "微信 AI 小游戏矩阵：利用小程序成长计划降低门槛，视频号挂载小游戏接流量主广告获利",
+        "linkUrl": null,
+        "gmtPublish": 1768828318,
+        "images": [
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/22811285881558581/Fk9hgZyijXZvMADa2vyW8_SqZfL5?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=0stHKmnqv5M1fkPKmkjQ0vuGs84%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_1280%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp",
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/22811285881558581/Ftpl_UG_mcQ0BumQsKEfd1Kf63Gz?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=8ekd00FmSUY0EiB0%2FCIWYuDbvNw%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_1280%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp",
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/22811285881558581/FnAdEmrKhN8a-eE3bvgFyFsek8Yk?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=1gDO4B0kvX66jNp1aOdaYmRLRJI%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_1280%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp",
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/22811285881558581/FiKIMxLJFJPuvw5Td5T1vwNJVrEL?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=ITpa%2F%2BMFL1ojWwYqZk3KlM32xZk%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_1280%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp",
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/22811285881558581/FpneXfnlCITc64CUFLaeXrKJ_ZDW?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=Px7F72FmULjP4EAqwtH0xZ7pN1A%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_1280%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp"
+        ],
+        "miniImages": [
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/22811285881558581/Fk9hgZyijXZvMADa2vyW8_SqZfL5?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=ZckE6HvsPOVGK7OJLgDx%2Fxefz%2F8%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_600%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp",
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/22811285881558581/Ftpl_UG_mcQ0BumQsKEfd1Kf63Gz?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=b9QQcGbdLW%2BvcJhll5CGjqDme%2F0%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_600%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp",
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/22811285881558581/FnAdEmrKhN8a-eE3bvgFyFsek8Yk?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=Cnqgpugb7XjpeC7e7UP29OtiRyM%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_600%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp",
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/22811285881558581/FiKIMxLJFJPuvw5Td5T1vwNJVrEL?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=1IIM2bt2DfK8JSVsQ1V9bE0gt2g%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_600%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp",
+          "https://sphere-sh.oss-cn-shanghai.aliyuncs.com/private/xq/images/22811285881558581/FpneXfnlCITc64CUFLaeXrKJ_ZDW?Expires=1776958576&OSSAccessKeyId=LTAI5tDANFnEjK2qWnHwZKzr&Signature=ahvPiyvaqVnB9BGyK0QEZC1YdJc%3D&x-oss-process=image%2Fauto-orient%2C1%2Fresize%2Cm_lfit%2Cw_600%2Ch_16000%2Fquality%2Cq_75%2Fformat%2Cwebp"
+        ],
+        "tag": "风向标",
+        "entityId": "22811285881558581",
+        "entityType": "xq_topic",
+        "xqGroupNumber": 40187
+      },
+      {
+        "type": "internal",
+        "order": 1,
+        "author": "御影年华",
+        "title": "微信 AI 小程序扶持：免费算力与云开发资源，开发者可零服务器成本开发 AI 工具变现",
+        "linkUrl": null,
+        "gmtPublish": 1767604844,
+        "images": [
+          "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/523015d73fbb477f94263674652f1cf5/zsxq_image_1770372008_23656d11.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,h_16000/quality,q_75/format,webp"
+        ],
+        "miniImages": [
+          "https://search01.shengcaiyoushu.com/public/upload/2026-02-11/523015d73fbb477f94263674652f1cf5/zsxq_image_1770372008_23656d11.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_600,h_16000/quality,q_75/format,webp"
+        ],
+        "tag": "风向标",
+        "entityId": "82811818415114412",
+        "entityType": "xq_topic",
+        "xqGroupNumber": 179595
+      }
+    ],
+    "resources": [
+      {
+        "type": "post",
+        "order": 1,
+        "title": "【超级标15】小红书产品打造养成系",
+        "author": "亦仁",
+        "label": null,
+        "gmtPublish": 1769764802,
+        "activityId": null,
+        "entityId": "22811222448122481",
+        "entityType": "xq_topic",
+        "isDigested": 1
+      },
+      {
+        "type": "post",
+        "order": 5,
+        "title": "零基础，在狗都不做的国内市场，如何三个月做出稳定变现的ai产品",
+        "author": "六六",
+        "label": null,
+        "gmtPublish": 1759676009,
+        "activityId": null,
+        "entityId": "4842428145214128",
+        "entityType": "xq_topic",
+        "isDigested": 1
+      },
+      {
+        "type": "post",
+        "order": 4,
+        "title": "纯新手，从0-1用ai撸房贷计算微信小程序至上架的心得（cursor航海复盘）",
+        "author": "波本Gato🌓",
+        "label": null,
+        "gmtPublish": 1736327589,
+        "activityId": null,
+        "entityId": "1525118885854852",
+        "entityType": "xq_topic",
+        "isDigested": 1
+      },
+      {
+        "type": "post",
+        "order": 2,
+        "title": "用cursor开发了我的第一个微信小程序",
+        "author": "Dong.",
+        "label": null,
+        "gmtPublish": 1754739875,
+        "activityId": null,
+        "entityId": "2852145121114841",
+        "entityType": "xq_topic",
+        "isDigested": 0
+      },
+      {
+        "type": "post",
+        "order": 3,
+        "title": "微信小程序接入AI Agent变现躺赚",
+        "author": "文少",
+        "label": null,
+        "gmtPublish": 1751768214,
+        "activityId": null,
+        "entityId": "1524188151245412",
+        "entityType": "xq_topic",
+        "isDigested": 0
+      }
+    ],
+    "platformMenus": [],
+    "monetizeMenus": [
+      {
+        "id": 7613564,
+        "name": "虚拟产品销售"
+      }
+    ],
+    "crowdMenus": [
+      {
+        "id": 9152960,
+        "name": "编程技术"
+      }
+    ],
+    "likeCount": 80,
+    "activityCount": 75,
+    "commentCount": 1,
+    "isLiked": false,
+    "isActivityJoined": false,
+    "favoriteCount": 28,
+    "isFavorited": false,
+    "gmtPublish": 1770782406,
+    "summary": "用AI开发解决具体痛点的微信小程序，不需要懂代码，找到需求就能做产品化变现",
+    "isSuper": false,
+    "isInActivity": true,
+    "superTopicId": null
+  }
+}

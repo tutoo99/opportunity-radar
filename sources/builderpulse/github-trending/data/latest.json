@@ -1,0 +1,530 @@
+{
+  "source": "github-trending",
+  "collected_at": "2026-04-16T22:49:36+08:00",
+  "items": [
+    {
+      "id": "forrestchang/andrej-karpathy-skills",
+      "title": "forrestchang/andrej-karpathy-skills - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "score": 0,
+      "comments_count": 0,
+      "author": "forrestchang",
+      "type": "repo",
+      "raw_text": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. | ★ 47,770 | ⑂ 3,903",
+      "images": [],
+      "collected_tags": [
+        "trending"
+      ]
+    },
+    {
+      "id": "thedotmack/claude-mem",
+      "title": "thedotmack/claude-mem - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "score": 0,
+      "comments_count": 0,
+      "author": "thedotmack",
+      "type": "repo",
+      "raw_text": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. | TypeScript | ★ 58,949 | ⑂ 4,814",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "lsdefine/GenericAgent",
+      "title": "lsdefine/GenericAgent - Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "url": "https://github.com/lsdefine/GenericAgent",
+      "score": 0,
+      "comments_count": 0,
+      "author": "lsdefine",
+      "type": "repo",
+      "raw_text": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption | Python | ★ 2,550 | ⑂ 299",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "Python"
+      ]
+    },
+    {
+      "id": "jamiepine/voicebox",
+      "title": "jamiepine/voicebox - The open-source voice synthesis studio",
+      "url": "https://github.com/jamiepine/voicebox",
+      "score": 0,
+      "comments_count": 0,
+      "author": "jamiepine",
+      "type": "repo",
+      "raw_text": "The open-source voice synthesis studio | TypeScript | ★ 18,822 | ⑂ 2,175",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "vercel-labs/open-agents",
+      "title": "vercel-labs/open-agents - An open source template for building cloud agents.",
+      "url": "https://github.com/vercel-labs/open-agents",
+      "score": 0,
+      "comments_count": 0,
+      "author": "vercel-labs",
+      "type": "repo",
+      "raw_text": "An open source template for building cloud agents. | TypeScript | ★ 3,012 | ⑂ 326",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "google/magika",
+      "title": "google/magika - Fast and accurate AI powered file content types detection",
+      "url": "https://github.com/google/magika",
+      "score": 0,
+      "comments_count": 0,
+      "author": "google",
+      "type": "repo",
+      "raw_text": "Fast and accurate AI powered file content types detection | Python | ★ 14,400 | ⑂ 759",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "Python"
+      ]
+    },
+    {
+      "id": "steipete/wacli",
+      "title": "steipete/wacli - WhatsApp CLI",
+      "url": "https://github.com/steipete/wacli",
+      "score": 0,
+      "comments_count": 0,
+      "author": "steipete",
+      "type": "repo",
+      "raw_text": "WhatsApp CLI | Go | ★ 1,565 | ⑂ 193",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "Go"
+      ]
+    },
+    {
+      "id": "topoteretes/cognee",
+      "title": "topoteretes/cognee - Knowledge Engine for AI Agent Memory in 6 lines of code",
+      "url": "https://github.com/topoteretes/cognee",
+      "score": 0,
+      "comments_count": 0,
+      "author": "topoteretes",
+      "type": "repo",
+      "raw_text": "Knowledge Engine for AI Agent Memory in 6 lines of code | Python | ★ 15,653 | ⑂ 1,619",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "Python"
+      ]
+    },
+    {
+      "id": "z-lab/dflash",
+      "title": "z-lab/dflash - DFlash: Block Diffusion for Flash Speculative Decoding",
+      "url": "https://github.com/z-lab/dflash",
+      "score": 0,
+      "comments_count": 0,
+      "author": "z-lab",
+      "type": "repo",
+      "raw_text": "DFlash: Block Diffusion for Flash Speculative Decoding | Python | ★ 1,492 | ⑂ 103",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "Python"
+      ]
+    },
+    {
+      "id": "Lordog/dive-into-llms",
+      "title": "Lordog/dive-into-llms - 《动手学大模型Dive into LLMs》系列编程实践教程",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "score": 0,
+      "comments_count": 0,
+      "author": "Lordog",
+      "type": "repo",
+      "raw_text": "《动手学大模型Dive into LLMs》系列编程实践教程 | Jupyter Notebook | ★ 30,459 | ⑂ 3,691",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "Jupyter Notebook"
+      ]
+    },
+    {
+      "id": "openai/openai-agents-python",
+      "title": "openai/openai-agents-python - A lightweight, powerful framework for multi-agent workflows",
+      "url": "https://github.com/openai/openai-agents-python",
+      "score": 0,
+      "comments_count": 0,
+      "author": "openai",
+      "type": "repo",
+      "raw_text": "A lightweight, powerful framework for multi-agent workflows | Python | ★ 21,026 | ⑂ 3,439",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "Python"
+      ]
+    },
+    {
+      "id": "EvoMap/evolver",
+      "title": "EvoMap/evolver - The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+      "url": "https://github.com/EvoMap/evolver",
+      "score": 0,
+      "comments_count": 0,
+      "author": "EvoMap",
+      "type": "repo",
+      "raw_text": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai | JavaScript | ★ 2,971 | ⑂ 318",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": "BasedHardware/omi",
+      "title": "BasedHardware/omi - AI that sees your screen, listens to your conversations and tells you what to do",
+      "url": "https://github.com/BasedHardware/omi",
+      "score": 0,
+      "comments_count": 0,
+      "author": "BasedHardware",
+      "type": "repo",
+      "raw_text": "AI that sees your screen, listens to your conversations and tells you what to do | Dart | ★ 8,790 | ⑂ 1,589",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "Dart"
+      ]
+    },
+    {
+      "id": "public-apis/public-apis",
+      "title": "public-apis/public-apis - A collective list of free APIs",
+      "url": "https://github.com/public-apis/public-apis",
+      "score": 0,
+      "comments_count": 0,
+      "author": "public-apis",
+      "type": "repo",
+      "raw_text": "A collective list of free APIs | Python | ★ 424,046 | ⑂ 46,154",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "Python"
+      ]
+    },
+    {
+      "id": "virattt/ai-hedge-fund",
+      "title": "virattt/ai-hedge-fund - An AI Hedge Fund Team",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "score": 0,
+      "comments_count": 0,
+      "author": "virattt",
+      "type": "repo",
+      "raw_text": "An AI Hedge Fund Team | Python | ★ 55,546 | ⑂ 9,619",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "Python"
+      ]
+    },
+    {
+      "id": "Tracer-Cloud/opensre",
+      "title": "Tracer-Cloud/opensre - Build your own AI SRE agents. The open source toolkit for the AI era ✨",
+      "url": "https://github.com/Tracer-Cloud/opensre",
+      "score": 0,
+      "comments_count": 0,
+      "author": "Tracer-Cloud",
+      "type": "repo",
+      "raw_text": "Build your own AI SRE agents. The open source toolkit for the AI era ✨ | Python | ★ 973 | ⑂ 137",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "Python"
+      ]
+    },
+    {
+      "id": "jundot/omlx",
+      "title": "jundot/omlx - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "url": "https://github.com/jundot/omlx",
+      "score": 0,
+      "comments_count": 0,
+      "author": "jundot",
+      "type": "repo",
+      "raw_text": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar | Python | ★ 10,347 | ⑂ 890",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "Python"
+      ]
+    },
+    {
+      "id": "google-research/timesfm",
+      "title": "google-research/timesfm - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "url": "https://github.com/google-research/timesfm",
+      "score": 0,
+      "comments_count": 0,
+      "author": "google-research",
+      "type": "repo",
+      "raw_text": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. | Python | ★ 17,872 | ⑂ 1,715",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "Python"
+      ]
+    },
+    {
+      "id": "datawhalechina/hello-agents",
+      "title": "datawhalechina/hello-agents - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "score": 0,
+      "comments_count": 0,
+      "author": "datawhalechina",
+      "type": "repo",
+      "raw_text": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 | Python | ★ 37,496 | ⑂ 4,442",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "Python"
+      ]
+    },
+    {
+      "id": "oobabooga/textgen",
+      "title": "oobabooga/textgen - The original local LLM interface. Text, vision, tool-calling, training. UI + API, 100% offline and private.",
+      "url": "https://github.com/oobabooga/textgen",
+      "score": 0,
+      "comments_count": 0,
+      "author": "oobabooga",
+      "type": "repo",
+      "raw_text": "The original local LLM interface. Text, vision, tool-calling, training. UI + API, 100% offline and private. | Python | ★ 46,672 | ⑂ 5,943",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "Python"
+      ]
+    },
+    {
+      "id": "github/awesome-copilot",
+      "title": "github/awesome-copilot - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+      "url": "https://github.com/github/awesome-copilot",
+      "score": 0,
+      "comments_count": 0,
+      "author": "github",
+      "type": "repo",
+      "raw_text": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot. | Python | ★ 30,016 | ⑂ 3,550",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "Python"
+      ]
+    },
+    {
+      "id": "Polymarket/agents",
+      "title": "Polymarket/agents - Trade autonomously on Polymarket using AI Agents",
+      "url": "https://github.com/Polymarket/agents",
+      "score": 0,
+      "comments_count": 0,
+      "author": "Polymarket",
+      "type": "repo",
+      "raw_text": "Trade autonomously on Polymarket using AI Agents | Python | ★ 3,018 | ⑂ 686",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "Python"
+      ]
+    },
+    {
+      "id": "dimensionalOS/dimos",
+      "title": "dimensionalOS/dimos - Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamlessly with physical input (cameras, lidar, actuators).",
+      "url": "https://github.com/dimensionalOS/dimos",
+      "score": 0,
+      "comments_count": 0,
+      "author": "dimensionalOS",
+      "type": "repo",
+      "raw_text": "Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamlessly with physical input (cameras, lidar, actuators). | Python | ★ 2,874 | ⑂ 458",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "Python"
+      ]
+    },
+    {
+      "id": "pascalorg/editor",
+      "title": "pascalorg/editor - Create and share 3D architectural projects.",
+      "url": "https://github.com/pascalorg/editor",
+      "score": 0,
+      "comments_count": 0,
+      "author": "pascalorg",
+      "type": "repo",
+      "raw_text": "Create and share 3D architectural projects. | TypeScript | ★ 13,075 | ⑂ 1,588",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "calcom/cal.diy",
+      "title": "calcom/cal.diy - Scheduling infrastructure for absolutely everyone.",
+      "url": "https://github.com/calcom/cal.diy",
+      "score": 0,
+      "comments_count": 0,
+      "author": "calcom",
+      "type": "repo",
+      "raw_text": "Scheduling infrastructure for absolutely everyone. | TypeScript | ★ 41,297 | ⑂ 12,764",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "gitroomhq/postiz-app",
+      "title": "gitroomhq/postiz-app - 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖",
+      "url": "https://github.com/gitroomhq/postiz-app",
+      "score": 0,
+      "comments_count": 0,
+      "author": "gitroomhq",
+      "type": "repo",
+      "raw_text": "📨 The ultimate social media scheduling tool, with a bunch of AI 🤖 | TypeScript | ★ 28,782 | ⑂ 5,137",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "sparkjsdev/spark",
+      "title": "sparkjsdev/spark - ✨ An advanced 3D Gaussian Splatting renderer for THREE.js",
+      "url": "https://github.com/sparkjsdev/spark",
+      "score": 0,
+      "comments_count": 0,
+      "author": "sparkjsdev",
+      "type": "repo",
+      "raw_text": "✨ An advanced 3D Gaussian Splatting renderer for THREE.js | TypeScript | ★ 2,470 | ⑂ 231",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "ourongxing/newsnow",
+      "title": "ourongxing/newsnow - Elegant reading of real-time and hottest news",
+      "url": "https://github.com/ourongxing/newsnow",
+      "score": 0,
+      "comments_count": 0,
+      "author": "ourongxing",
+      "type": "repo",
+      "raw_text": "Elegant reading of real-time and hottest news | TypeScript | ★ 19,487 | ⑂ 5,531",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "ChromeDevTools/chrome-devtools-mcp",
+      "title": "ChromeDevTools/chrome-devtools-mcp - Chrome DevTools for coding agents",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "score": 0,
+      "comments_count": 0,
+      "author": "ChromeDevTools",
+      "type": "repo",
+      "raw_text": "Chrome DevTools for coding agents | TypeScript | ★ 35,430 | ⑂ 2,155",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "strapi/strapi",
+      "title": "strapi/strapi - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.",
+      "url": "https://github.com/strapi/strapi",
+      "score": 0,
+      "comments_count": 0,
+      "author": "strapi",
+      "type": "repo",
+      "raw_text": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. | TypeScript | ★ 71,905 | ⑂ 9,653",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "quemsah/awesome-claude-plugins",
+      "title": "quemsah/awesome-claude-plugins - Automated collection of Claude Code plugin adoption metrics across GitHub repositories using n8n workflows",
+      "url": "https://github.com/quemsah/awesome-claude-plugins",
+      "score": 0,
+      "comments_count": 0,
+      "author": "quemsah",
+      "type": "repo",
+      "raw_text": "Automated collection of Claude Code plugin adoption metrics across GitHub repositories using n8n workflows | TypeScript | ★ 465 | ⑂ 60",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "archestra-ai/archestra",
+      "title": "archestra-ai/archestra - Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator",
+      "url": "https://github.com/archestra-ai/archestra",
+      "score": 0,
+      "comments_count": 0,
+      "author": "archestra-ai",
+      "type": "repo",
+      "raw_text": "Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator | TypeScript | ★ 3,577 | ⑂ 441",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "RocketChat/Rocket.Chat",
+      "title": "RocketChat/Rocket.Chat - The Secure CommsOS™ for mission-critical operations",
+      "url": "https://github.com/RocketChat/Rocket.Chat",
+      "score": 0,
+      "comments_count": 0,
+      "author": "RocketChat",
+      "type": "repo",
+      "raw_text": "The Secure CommsOS™ for mission-critical operations | TypeScript | ★ 45,151 | ⑂ 13,525",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "microsoft/vscode",
+      "title": "microsoft/vscode - Visual Studio Code",
+      "url": "https://github.com/microsoft/vscode",
+      "score": 0,
+      "comments_count": 0,
+      "author": "microsoft",
+      "type": "repo",
+      "raw_text": "Visual Studio Code | TypeScript | ★ 183,932 | ⑂ 39,233",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "EveryInc/compound-engineering-plugin",
+      "title": "EveryInc/compound-engineering-plugin - Official Compound Engineering plugin for Claude Code, Codex, and more",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "score": 0,
+      "comments_count": 0,
+      "author": "EveryInc",
+      "type": "repo",
+      "raw_text": "Official Compound Engineering plugin for Claude Code, Codex, and more | TypeScript | ★ 14,479 | ⑂ 1,086",
+      "images": [],
+      "collected_tags": [
+        "trending",
+        "TypeScript"
+      ]
+    }
+  ]
+}
