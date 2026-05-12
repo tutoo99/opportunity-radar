@@ -258,6 +258,8 @@ sources/<name>/
 | xiaohongshu | 小红书 | 待开发 |
 | plugin-marketplace | 全球插件市场 | 待开发 |
 | xiaoyuzhou | 小宇宙播客 | 待开发 |
+| trustmrr | TrustMRR verified startup revenue | 已就绪 |
+| theresanaiforthat | ThereIsAnAIForThat 每周 AI 工具趋势 | 已就绪 |
 
 ### 全球开发者信号源（BuilderPulse）
 
@@ -308,6 +310,34 @@ Toolify.ai 每月发布 AI 产品增长榜单（Top 300），按 growth 排序�
 
 依赖：`pip install curl_cffi python-dateutil`
 
+### Verified startup revenue（TrustMRR）
+
+|| 名称 | 平台 | 采集方式 | 状态 ||
+||------|------|---------|------||
+|| trustmrr | TrustMRR verified revenue marketplace | 官方 API（httpx，需要 `TRUSTMRR_API_KEY`） | 已就绪 |
+
+TrustMRR 提供已验证收入的 startup 数据，适合发现「已经有人付费」的产品形态和交易价格区间。采集脚本 `sources/trustmrr/scripts/collector.py` 支持：
+
+- 按收入、MRR、增长、售价、分类、出售状态筛选
+- 保存统一 `latest.json`、时间戳快照、原始 API 数据
+- 可选调用详情接口补充 tech stack，用于评分阶段判断自身匹配度
+
+依赖：`pip install httpx`
+
+### AI 工具每周趋势（ThereIsAnAIForThat）
+
+|| 名称 | 平台 | 采集方式 | 状态 ||
+||------|------|---------|------||
+|| theresanaiforthat | ThereIsAnAIForThat weekly trending | DrissionPage 静态 DOM 解析 | 已就绪 |
+
+ThereIsAnAIForThat 每周趋势页适合发现正在获得关注的 AI 工具。采集脚本 `sources/theresanaiforthat/scripts/collector.py` 只访问公开页面 `https://theresanaiforthat.com/trending/week/`，不调用 `/api/`，从 `#data_hist ul.tasks > li` 解析：
+
+- `li` 属性：工具 ID、名称、任务分类、外链、榜单 rank
+- `.li_row`：工具详情页、图标、短描述、任务标签
+- `.comment` / `.ai_footer`：精选评论、发布时间、价格、浏览量、收藏数、评分
+
+依赖：`pip install DrissionPage lxml`
+
 新加数据源：在 `sources/` 下新建目录，写好 README.md，本文件列表中加一行即可。
 
 ## 目录结构
@@ -325,6 +355,8 @@ opportunity-radar/
 │   ├── plugin-marketplace/
 │   ├── xiaoyuzhou/
 │   ├── toolifyai/                   # AI 产品增长趋势（curl_cffi）
+│   ├── trustmrr/                    # Verified startup revenue（官方 API）
+│   ├── theresanaiforthat/           # ThereIsAnAIForThat 每周趋势（DOM 解析）
 │   └── builderpulse/                # 全球开发者信号源（6 大平台）
 │       ├── README.md                # 总览 + 采集方式说明
 │       ├── hackernews/              # Hacker News（公开 API）
